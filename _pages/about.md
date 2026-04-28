@@ -37,7 +37,7 @@ redirect_from:
     I expect to graduate in <strong>November 2026</strong> and will join the
     <a href="https://www.cmu.edu/dietrich/statistics-datascience/">Department of Statistics and Data Science</a>
     at <strong>Carnegie Mellon University</strong> in December 2026 as Special Faculty
-    (Postdoctoral Researcher) with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.
+    (Postdoctoral Researcher) under the guidance of <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.
   </p>
 </div>
 
@@ -167,7 +167,7 @@ redirect_from:
 
 <ul class="news-list">
   <li><span class="news-date" data-year="2026">May 2026</span><span class="news-body">Presenting <em>Comparative Bayesian multi-level framework for evaluating differential circadian synchrony across conditions</em> at <strong>STATGEN 2026</strong>.</span></li>
-  <li><span class="news-date" data-year="2026">Apr 2026</span><span class="news-body">Accepted a Special Faculty (Postdoctoral Researcher) position in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, beginning December 2026, with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</span></li>
+  <li><span class="news-date" data-year="2026">Apr 2026</span><span class="news-body">Accepted a Special Faculty (Postdoctoral Researcher) position in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, beginning December 2026, under the guidance of <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</span></li>
   <li><span class="news-date" data-year="2026">Apr 2026</span><span class="news-body">Co-authored <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em>, accepted in <em>PNAS</em>.</span></li>
   <li><span class="news-date" data-year="2026">Mar 2026</span><span class="news-body">Published first-author work on tailored interventions for men living with HIV in <em>Quality of Life Research</em>.</span></li>
   <li><span class="news-date" data-year="2025">Dec 2025</span><span class="news-body">Accepted a Biostatistics Internship at <strong>Merck</strong> in Biostatistics and Research Decision Sciences (BARDS), Oncology.</span></li>
