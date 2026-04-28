@@ -1,0 +1,145 @@
+/* =================================================================
+   Sitewide typography — applied on top of Minimal Mistakes defaults.
+   Goal: editorial readability across Publications, Teaching, CV, etc.
+   ================================================================= */
+
+:root {
+  --tp-ink: #1f1d1a;
+  --tp-ink-soft: #4a463f;
+  --tp-rule: #d9d1c2;
+  --tp-accent: #7a2e1f;
+}
+
+/* ---------- Body content area ---------- */
+.page__content {
+  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", "Palatino", serif;
+  font-size: 1.04em;
+  line-height: 1.65;
+  color: var(--tp-ink);
+}
+
+.page__content p {
+  margin-top: 0.6em;
+  margin-bottom: 1em;
+  line-height: 1.65;
+}
+
+/* Readable measure for long-form prose pages */
+.page__content > p,
+.page__content > ul,
+.page__content > ol,
+.page__content > blockquote {
+  max-width: 42em;
+}
+
+/* ---------- Headings ---------- */
+.page__content h1,
+.page__title {
+  font-family: Georgia, "Iowan Old Style", serif;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+}
+
+.page__content h2 {
+  font-family: Georgia, "Iowan Old Style", serif;
+  font-size: 1.55em;
+  font-weight: 600;
+  color: var(--tp-ink);
+  margin-top: 2em;
+  margin-bottom: 0.85em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--tp-rule);
+  letter-spacing: -0.005em;
+}
+
+.page__content h3 {
+  font-family: Georgia, serif;
+  font-size: 1.2em;
+  font-weight: 600;
+  color: var(--tp-accent);
+  margin-top: 1.6em;
+  margin-bottom: 0.5em;
+}
+
+.page__content h4 {
+  font-family: Georgia, serif;
+  font-size: 1.05em;
+  font-weight: 600;
+  color: var(--tp-ink);
+  margin-top: 1.3em;
+  margin-bottom: 0.4em;
+}
+
+/* ---------- Lists ---------- */
+.page__content ul,
+.page__content ol {
+  line-height: 1.6;
+  margin-bottom: 1em;
+}
+
+.page__content li {
+  margin-bottom: 0.35em;
+}
+
+.page__content li > ul,
+.page__content li > ol {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+/* ---------- Links ---------- */
+.page__content a {
+  color: var(--tp-accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(122, 46, 31, 0.3);
+  transition: border-color 0.15s ease, background-color 0.15s ease;
+}
+
+.page__content a:hover {
+  border-bottom-color: var(--tp-accent);
+  background-color: rgba(122, 46, 31, 0.04);
+}
+
+/* ---------- Strong / em ---------- */
+.page__content strong {
+  color: var(--tp-ink);
+  font-weight: 700;
+}
+
+.page__content em {
+  font-style: italic;
+  color: var(--tp-ink-soft);
+}
+
+/* ---------- Sidebar bio readability ---------- */
+.author__bio {
+  font-family: Georgia, serif;
+  line-height: 1.5;
+  font-size: 0.92em;
+}
+
+/* ---------- Page title ---------- */
+.page__title {
+  font-size: 2em;
+  margin-bottom: 0.4em;
+}
+
+/* ---------- Responsive bumps ---------- */
+@media (min-width: 80em) {
+  .page__content {
+    font-size: 1.08em;
+  }
+}
+
+@media (max-width: 700px) {
+  .page__content {
+    font-size: 1em;
+    line-height: 1.6;
+  }
+  .page__content h2 {
+    font-size: 1.35em;
+  }
+  .page__title {
+    font-size: 1.7em;
+  }
+}
