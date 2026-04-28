@@ -160,7 +160,7 @@ redirect_from:
 </div>
 
 <p class="see-all-pubs">
-  <a href="https://scholar.google.com/citations?user=4k6XtToAAAAJ&hl=en">See the full publication list →</a>
+  <a href="{{ '/publications/' | absolute_url }}">See the full publication list →</a>
 </p>
 
 ## Looking ahead · Collaborate
@@ -215,7 +215,6 @@ redirect_from:
 </ul>
 
 <p class="closing-note">
-  Outside research, I sing with the <a href="https://www.pittsburghmensgleeclub.org/">Pittsburgh Men's Glee Club</a>
-  and spend a lot of time with my cat.
-  Reach me at <a href="mailto:quythien14@gmail.com">quythien14@gmail.com</a>.
+  Reach me at <a href="mailto:qtp1@pitt.edu">qtp1@pitt.edu</a>.
+  Outside research, I enjoy singing and spending a lot of time with my cat.
 </p>
