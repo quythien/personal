@@ -5,22 +5,12 @@
    homepage; nav and sidebar inherit AcademicPages defaults.
    ================================================================= */
 
-:root {
-  --ink: #1f1d1a;
-  --ink-soft: #4a463f;
-  --paper: #fbfaf7;
-  --rule: #d9d1c2;
-  --accent: #7a2e1f;      /* oxblood for links/buttons */
-  --accent-soft: #b8503a;
-  --navy: #2e4858;
-  --olive: #5a6b4a;
-  --gold: #a8924a;
-}
+/* Palette and text-scale variables live in typography.css (loaded site-wide). */
 
 /* ---------- Intro ---------- */
 .intro-block {
-  margin: 0.5em 0 2.2em;
-  max-width: 48em;
+  margin: 0.5em 0 2.4em;
+  max-width: 42em;
 }
 .intro-block .lead {
   font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
@@ -43,32 +33,19 @@
   border-bottom-color: var(--accent);
 }
 .funding-note {
-  font-size: 0.93em;
+  font-size: var(--text-small);
   padding: 0.9em 1.1em;
   background: #f4efe2;
   border-left: 3px solid var(--gold);
   color: var(--ink-soft);
-  font-style: italic;
 }
 .funding-note strong {
-  font-style: normal;
   color: var(--ink);
   font-variant: small-caps;
   letter-spacing: 0.03em;
 }
 
-/* ---------- Section labels ---------- */
-.page__content h2 {
-  font-family: Georgia, "Iowan Old Style", serif;
-  font-size: 1.55em;
-  font-weight: 600;
-  color: var(--ink);
-  margin-top: 2.6em;
-  margin-bottom: 1em;
-  padding-bottom: 0.35em;
-  border-bottom: 1px solid var(--rule);
-  letter-spacing: -0.005em;
-}
+/* Section heading rules now live in typography.css (.page__content h2). */
 
 /* ---------- Research themes ---------- */
 .themes-grid {
@@ -93,7 +70,7 @@
 }
 .theme-kicker {
   font-family: Georgia, serif;
-  font-size: 0.72em;
+  font-size: var(--text-micro);
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--ink-soft);
@@ -102,14 +79,14 @@
 }
 .theme-card h3 {
   font-family: Georgia, serif;
-  font-size: 1.1em;
+  font-size: 1.2em;
   font-weight: 600;
   color: var(--ink);
   margin: 0 0 0.5em;
 }
 .theme-card p {
   font-family: Georgia, serif;
-  font-size: 0.93em;
+  font-size: var(--text-small);
   line-height: 1.55;
   color: var(--ink-soft);
   margin: 0;
@@ -153,34 +130,34 @@
 }
 .pub-figure-mark {
   font-family: Georgia, "Iowan Old Style", serif;
-  font-size: 1.45em;
-  font-weight: 700;
-  color: var(--accent);
-  letter-spacing: -0.01em;
-  line-height: 1.15;
+  font-size: 1.05em;
+  font-weight: 600;
+  color: var(--ink-soft);
+  letter-spacing: -0.005em;
+  line-height: 1.25;
 }
 .pub-figure-mark .venue {
   display: block;
-  font-size: 0.7em;
-  color: var(--accent-soft);
+  font-size: var(--text-micro);
+  color: var(--accent);
   font-weight: 600;
   letter-spacing: 0.18em;
   text-transform: uppercase;
-  margin-bottom: 0.35em;
+  margin-bottom: 0.45em;
   font-variant: small-caps;
 }
 .pub-figure-mark .year {
   display: block;
-  font-size: 0.55em;
+  font-size: var(--text-micro);
   color: var(--ink-soft);
   font-weight: normal;
   letter-spacing: 0.1em;
-  margin-top: 0.4em;
+  margin-top: 0.5em;
   font-variant: small-caps;
 }
 .pub-body h3 {
   font-family: Georgia, serif;
-  font-size: 1.25em;
+  font-size: 1.2em;
   font-weight: 700;
   color: var(--ink);
   margin: 0.1em 0 0.35em;
@@ -188,7 +165,7 @@
 }
 .pub-tagline {
   font-family: Georgia, serif;
-  font-size: 1em;
+  font-size: var(--text-body);
   line-height: 1.5;
   color: var(--ink);
   margin: 0 0 0.55em;
@@ -196,7 +173,7 @@
 .pub-tagline em { color: var(--accent); font-style: italic; }
 .pub-meta {
   font-family: Georgia, serif;
-  font-size: 0.88em;
+  font-size: var(--text-small);
   color: var(--ink-soft);
   margin: 0 0 0.55em;
   line-height: 1.45;
@@ -204,7 +181,7 @@
 .pub-meta em { font-style: italic; }
 .pub-links {
   font-family: Georgia, serif;
-  font-size: 0.88em;
+  font-size: var(--text-small);
   margin: 0;
 }
 .pub-links a, .pub-meta a {
@@ -225,7 +202,7 @@
 .tag {
   display: inline-block;
   font-family: Georgia, serif;
-  font-size: 0.7em;
+  font-size: var(--text-micro);
   letter-spacing: 0.12em;
   text-transform: uppercase;
   padding: 0.2em 0.7em;
@@ -251,7 +228,7 @@
   text-align: right;
   margin-top: 0.3em;
   font-family: Georgia, serif;
-  font-size: 0.95em;
+  font-size: var(--text-body);
 }
 .see-all-pubs a {
   color: var(--accent);
@@ -283,7 +260,7 @@
 }
 .cta-eyebrow {
   font-family: Georgia, serif;
-  font-size: 0.72em;
+  font-size: var(--text-micro);
   letter-spacing: 0.18em;
   text-transform: uppercase;
   color: var(--ink-soft);
@@ -291,14 +268,14 @@
 }
 .cta-card h3 {
   font-family: Georgia, serif;
-  font-size: 1.3em;
+  font-size: 1.2em;
   font-weight: 700;
   color: var(--ink);
   margin: 0 0 0.55em;
 }
 .cta-card p {
   font-family: Georgia, serif;
-  font-size: 0.95em;
+  font-size: var(--text-body);
   line-height: 1.58;
   color: var(--ink);
   margin: 0 0 0.8em;
@@ -311,7 +288,7 @@
 }
 .cta-list li {
   font-family: Georgia, serif;
-  font-size: 0.9em;
+  font-size: var(--text-small);
   color: var(--ink-soft);
   padding: 0.3em 0 0.3em 1em;
   position: relative;
@@ -332,7 +309,7 @@
 .cta-button {
   display: inline-block;
   font-family: Georgia, serif;
-  font-size: 0.92em;
+  font-size: var(--text-small);
   padding: 0.7em 1.4em;
   background: var(--accent);
   color: #fff !important;
@@ -358,28 +335,25 @@
   list-style: none;
   padding: 0;
   margin: 0.5em 0 1em;
-  border-top: 1px solid var(--rule);
 }
 .news-list li {
+  display: grid;
+  grid-template-columns: 6.5em 1fr;
+  column-gap: 1em;
+  align-items: baseline;
   font-family: Georgia, serif;
-  font-size: 0.95em;
+  font-size: var(--text-body);
   line-height: 1.55;
   color: var(--ink);
-  padding: 0.8em 0 0.8em 7.5em;
+  padding: 0.85em 0;
   border-bottom: 1px solid var(--rule);
-  position: relative;
 }
 .news-date {
-  position: absolute;
-  left: 0;
-  top: 0.95em;
-  width: 6em;
-  padding-right: 0.5em;
   font-variant: small-caps;
   letter-spacing: 0.05em;
   color: var(--accent);
   font-weight: 600;
-  font-size: 0.88em;
+  font-size: var(--text-small);
   white-space: nowrap;
 }
 .news-list li a {
@@ -392,7 +366,7 @@
 /* ---------- Closing note ---------- */
 .closing-note {
   font-family: Georgia, serif;
-  font-size: 0.95em;
+  font-size: var(--text-body);
   line-height: 1.6;
   color: var(--ink-soft);
   margin-top: 1.8em;
@@ -410,7 +384,7 @@
 
 /* ---------- Publications page ---------- */
 .pub-legend {
-  font-size: 0.92em;
+  font-size: var(--text-small);
   color: var(--ink-soft);
   background: #f4efe2;
   border-left: 3px solid var(--gold);
@@ -435,16 +409,12 @@
     min-height: 110px;
   }
   .news-list li {
-    padding-left: 0;
-    padding-top: 0.5em;
-    padding-bottom: 1em;
+    grid-template-columns: 1fr;
+    row-gap: 0.15em;
+    padding: 0.7em 0 0.9em;
   }
   .news-date {
-    position: static;
-    display: block;
-    width: auto;
-    font-size: 0.82em;
-    margin-bottom: 0.2em;
+    font-size: var(--text-micro);
   }
   .page__content h2 {
     font-size: 1.35em;
