@@ -365,14 +365,15 @@
   font-size: 0.95em;
   line-height: 1.55;
   color: var(--ink);
-  padding: 0.8em 0;
+  padding: 0.8em 0 0.8em 5em;
   border-bottom: 1px solid var(--rule);
-  display: flex;
-  gap: 1em;
-  align-items: baseline;
+  position: relative;
 }
 .news-date {
-  flex: 0 0 70px;
+  position: absolute;
+  left: 0;
+  top: 0.95em;
+  width: 4em;
   font-variant: small-caps;
   letter-spacing: 0.05em;
   color: var(--accent);
@@ -432,11 +433,16 @@
     min-height: 110px;
   }
   .news-list li {
-    grid-template-columns: 1fr;
-    gap: 0.1em;
+    padding-left: 0;
+    padding-top: 0.5em;
+    padding-bottom: 1em;
   }
   .news-date {
+    position: static;
+    display: block;
+    width: auto;
     font-size: 0.82em;
+    margin-bottom: 0.2em;
   }
   .page__content h2 {
     font-size: 1.35em;
