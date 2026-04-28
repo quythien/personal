@@ -33,9 +33,8 @@ redirect_from:
     to work in one population and fail in another. The clinical setting taught me which
     questions matter; it didn't give me the tools to answer them. I followed those tools to
     UNC&ndash;Chapel Hill for statistics and mathematics, and then to Pittsburgh for
-    biostatistics. The methodological work I do now &mdash; on circadian biology, multi-omics
-    integration, and longitudinal clinical data &mdash; remains motivated by the patients
-    and biological questions that first drew me in.
+    biostatistics. The methodological work I do now remains motivated by the patients and
+    biological questions that first drew me in.
   </p>
 
   <p class="funding-note">
