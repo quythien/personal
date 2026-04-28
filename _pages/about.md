@@ -17,9 +17,9 @@ redirect_from:
     at the University of Pittsburgh, where I work in the
     <em>Bioinformatics and Statistical Machine Learning Group</em> led by
     <a href="https://tsenglab.biostat.pitt.edu/">Dr. George Tseng</a>.
-    Before Pitt, I studied statistics and mathematics at UNC&ndash;Chapel Hill, after time
-    in medical school in Vietnam &mdash; a path that continues to shape how I work between
-    statistics and biomedical research.
+    Before Pitt, I studied statistics and mathematics at UNC&ndash;Chapel Hill, after early
+    years at Pham Ngoc Thach University of Medicine in Vietnam &mdash; a path that continues
+    to shape how I work between statistics and biomedical research.
   </p>
 
   <p>
