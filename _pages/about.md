@@ -17,16 +17,20 @@ redirect_from:
     at the University of Pittsburgh, where I work in the
     <em>Bioinformatics and Statistical Machine Learning Group</em> led by
     <a href="https://tsenglab.biostat.pitt.edu/">Dr. George Tseng</a>.
-    Before Pitt, I studied statistics and mathematics at UNC&ndash;Chapel Hill and trained
-    in medicine in Vietnam &mdash; a path that continues to shape how I work between
+    Before Pitt, I studied statistics and mathematics at UNC&ndash;Chapel Hill, after time
+    in medical school in Vietnam &mdash; a path that continues to shape how I work between
     statistics and biomedical research.
   </p>
 
   <p>
     My research develops <strong>statistical and computational methods</strong> for high-dimensional
-    biomedical data, with a focus on <em>Bayesian modeling of circadian rhythms</em>,
-    <em>multi-omics integration</em>, and <em>causal &amp; longitudinal inference</em>
-    across RNA-seq, single-cell, DNA methylation, proteomics, and longitudinal clinical data.
+    biomedical data, with a focus on <em>Bayesian modeling of circadian rhythms</em> and
+    <em>multi-omics integration</em>.
+  </p>
+
+  <p>
+    Through collaborations, I apply <em>causal and longitudinal inference</em> across RNA-seq,
+    single-cell, DNA methylation, proteomics, and longitudinal clinical data.
   </p>
 
   <p class="funding-note">
@@ -175,7 +179,7 @@ redirect_from:
       Beyond academia, I've gained hands-on industry experience as a biostatistician on two pharmaceutical clinical trials — an end-stage kidney disease (ESKD) trial at Otsuka and an oncology trial at Merck. Working across nephrology and oncology grounded me in regulatory-grade trial design, survival and longitudinal endpoints, and the cross-functional reality of how methodological choices shape drug approval and patient care.
     </p>
     <p>
-      If you have a multi-omics or longitudinal-trial dataset and a methodological question, I'm happy to discuss.
+      I welcome conversations with clinicians and biologists working through high-dimensional or longitudinal data — especially when the analytic plan is still being shaped.
     </p>
     <ul class="cta-list">
       <li>Method development grounded in real biological problems</li>
@@ -188,13 +192,13 @@ redirect_from:
 ## Recent news
 
 <ul class="news-list">
-  <li><span class="news-date">Apr 2026</span> Accepted a position as Special Faculty (Post-doctoral Researcher) in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, starting January 2027, with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</li>
-  <li><span class="news-date">Apr 2026</span> Co-author: <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em> accepted at <em>PNAS</em> (Barko, Shelton, et al.).</li>
-  <li><span class="news-date">Mar 2026</span> First author: <em>Tailored interventions for men living with HIV</em> published in <em>Quality of Life Research</em>.</li>
-  <li><span class="news-date">Aug 2025</span> Completed Senior Statistician Internship at Otsuka America Pharmaceutical (Bayesian meta-analysis for a Phase 3 IgA nephropathy trial).</li>
-  <li><span class="news-date">May 2025</span> Advanced to Ph.D. candidacy after passing the Proposal Exam.</li>
-  <li><span class="news-date">May 2025</span> Awarded the Outstanding Teaching Assistant Award, Department of Biostatistics.</li>
-  <li><span class="news-date">Apr 2025</span> Awarded the Biostatistics Dean's Day Doctoral Award.</li>
+  <li><span class="news-date">Apr 2026</span><span class="news-body">Accepted a position as Special Faculty (Post-doctoral Researcher) in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, starting January 2027, with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</span></li>
+  <li><span class="news-date">Apr 2026</span><span class="news-body">Co-author: <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em> accepted at <em>PNAS</em> (Barko, Shelton, et al.).</span></li>
+  <li><span class="news-date">Mar 2026</span><span class="news-body">First author: <em>Tailored interventions for men living with HIV</em> published in <em>Quality of Life Research</em>.</span></li>
+  <li><span class="news-date">Aug 2025</span><span class="news-body">Completed Senior Statistician Internship at Otsuka America Pharmaceutical (Bayesian meta-analysis for a Phase 3 IgA nephropathy trial).</span></li>
+  <li><span class="news-date">May 2025</span><span class="news-body">Advanced to Ph.D. candidacy after passing the Proposal Exam.</span></li>
+  <li><span class="news-date">May 2025</span><span class="news-body">Awarded the Outstanding Teaching Assistant Award, Department of Biostatistics.</span></li>
+  <li><span class="news-date">Apr 2025</span><span class="news-body">Awarded the Biostatistics Dean's Day Doctoral Award.</span></li>
 </ul>
 
 <p class="closing-note">
