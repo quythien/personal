@@ -27,7 +27,7 @@ redirect_from:
     biomedical data, with a focus on <em>Bayesian modeling of circadian rhythms</em>,
     <em>multi-omics integration</em>, and <em>causal &amp; longitudinal inference</em>.
     I work across short-read and single-cell RNA-seq, DNA methylation, proteomics, and
-    longitudinal clinical data — and I'm equally happy writing the model and shipping the code.
+    longitudinal clinical data.
   </p>
 
   <p class="funding-note">
