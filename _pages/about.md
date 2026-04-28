@@ -29,8 +29,13 @@ redirect_from:
   </p>
 
   <p>
-    Through collaborations, I apply <em>causal and longitudinal inference</em> across RNA-seq,
-    single-cell, DNA methylation, proteomics, and longitudinal clinical data.
+    In multi-omics collaborations with biologists, I work across RNA-seq, single-cell,
+    DNA methylation, and proteomics datasets.
+  </p>
+
+  <p>
+    In clinical and translational collaborations, I bring <em>causal and longitudinal
+    inference</em> to trial and cohort studies.
   </p>
 
   <p class="funding-note">
