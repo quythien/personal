@@ -160,7 +160,7 @@ redirect_from:
 </div>
 
 <p class="see-all-pubs">
-  <a href="{{ '/publications/' | relative_url }}">See the full publication list →</a>
+  <a href="https://scholar.google.com/citations?user=4k6XtToAAAAJ&hl=en">See the full publication list →</a>
 </p>
 
 ## Looking ahead · Collaborate
