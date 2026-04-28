@@ -211,7 +211,7 @@ redirect_from:
   <li><span class="news-date">2025</span> Awarded the Biostatistics Dean's Day Doctoral Award.</li>
   <li><span class="news-date">2025</span> Awarded the Outstanding Teaching Assistant Award, Department of Biostatistics.</li>
   <li><span class="news-date">2025</span> Travel Funding Award — STATGEN Conference (Bayesian cross-species circadian rhythm congruence).</li>
-  <li><span class="news-date">2024</span> Co-authored mediation-analysis paper published in <em>Archives of Physical Medicine and Rehabilitation</em>.</li>
+  <li><span class="news-date">2024</span> <em>Unraveling the mechanisms behind the short-term effects of dry needling: new insights from a mediation analysis with repeatedly measured mediators and outcomes</em> accepted at <em>Archives of Physical Medicine and Rehabilitation</em>.</li>
 </ul>
 
 <p class="closing-note">
