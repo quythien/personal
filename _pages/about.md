@@ -19,8 +19,8 @@ redirect_from:
     <a href="https://tsenglab.biostat.pitt.edu/">Dr. George Tseng</a>.
     Before Pitt, I earned a B.S. in Statistics and a B.S. in Mathematics with Highest Distinction
     from the University of North Carolina at Chapel Hill, where I was elected to Phi Beta Kappa.
-    My path to biostatistics began in medical school in Vietnam, and I'm motivated by methods
-    that translate cleanly into biomedical practice.
+    I have been interested in biology from a young age, which led me to medical training in Vietnam
+    and continues to motivate my work at the intersection of statistics and biomedical research.
   </p>
 
   <p>
