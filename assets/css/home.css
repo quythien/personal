@@ -45,6 +45,15 @@
   letter-spacing: 0.03em;
 }
 
+.research-summary {
+  font-family: var(--font-serif);
+  font-size: 1.02em;
+  line-height: 1.65;
+  color: var(--ink);
+  max-width: 44em;
+  margin: 0.4em 0 1.8em;
+}
+
 /* Section heading rules now live in typography.css (.page__content h2). */
 
 /* ---------- Research themes ---------- */
@@ -243,6 +252,7 @@
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
   gap: 1.3em;
   margin: 0.5em 0 1em;
+  max-width: 46em;
 }
 .cta-card {
   padding: 1.4em 1.5em 1.6em;

@@ -1,0 +1,78 @@
+.teaching-section { margin-bottom: 2.6em; }
+
+.teaching-school {
+  font-family: var(--font-serif);
+  font-weight: 700;
+  font-size: 1.4em;
+  color: var(--ink);
+  margin: 1.8em 0 0.5em;
+  padding-bottom: 0.35em;
+  border-bottom: 1px solid var(--rule);
+  letter-spacing: -0.01em;
+}
+
+.teaching-role {
+  font-family: var(--font-serif);
+  font-weight: 600;
+  color: var(--accent);
+  margin: 1.4em 0 0.6em;
+  font-size: 1.05em;
+  letter-spacing: 0.005em;
+}
+
+.teaching-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 0.7em;
+  max-width: 42em;
+}
+
+.teaching-list li {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  column-gap: 1.5em;
+  align-items: baseline;
+  padding: 0.4em 0;
+  font-family: var(--font-serif);
+  line-height: 1.45;
+  border-bottom: 1px dotted var(--rule);
+}
+
+.teaching-list li:last-child {
+  border-bottom: none;
+}
+
+.teaching-list .course {
+  color: var(--ink);
+}
+
+.teaching-list .term {
+  color: var(--ink-soft);
+  font-size: var(--text-small);
+  font-variant: small-caps;
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+  text-align: right;
+}
+
+.teaching-blurb {
+  font-family: var(--font-serif);
+  color: var(--ink-soft);
+  line-height: 1.6;
+  max-width: 42em;
+  margin: 0.6em 0 0;
+  font-size: var(--text-small);
+}
+
+@media (max-width: 700px) {
+  .teaching-list li {
+    grid-template-columns: 1fr;
+    row-gap: 0.1em;
+    padding: 0.5em 0 0.6em;
+  }
+
+  .teaching-list .term {
+    text-align: left;
+    font-size: var(--text-micro);
+  }
+}
