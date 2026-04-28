@@ -34,8 +34,8 @@ redirect_from:
     questions matter; it didn't give me the tools to answer them. I followed those tools to
     UNC&ndash;Chapel Hill for statistics and mathematics, and then to Pittsburgh for
     biostatistics. The methodological work I do now remains motivated by the patients and
-    biological questions that first drew me in, and that early training still helps me act
-    as a bridge between clinical questions and statistical methodology &mdash; both in the
+    biological questions that first drew me in. That early training still helps me act as
+    a bridge between clinical questions and statistical methodology &mdash; both in the
     methods I develop and in the collaborations I take on.
   </p>
 
