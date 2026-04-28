@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Thien (Theo) Pham"
+title                    : "Thien Quy Pham"
 title_separator          : "-"
-name                     : &name "Thien (Theo) Pham"
+name                     : &name "Thien Quy Pham"
 description              : &description "PhD candidate in Biostatistics at the University of Pittsburgh — Bayesian modeling, multi-omics integration, and causal inference."
 url                      : https://quythien.github.io/personal/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "quythien/personal" # the name of your GitHub reposit
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Thien (Theo) Pham"
+  name             : "Thien Quy Pham"
   pronouns         : "he/him/his"
   bio              : "PhD candidate in Biostatistics, University of Pittsburgh. Bayesian modeling, multi-omics integration, and causal inference."
   location         : "Pittsburgh, PA"

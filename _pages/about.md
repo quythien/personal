@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Thien (Theo) Pham"
+title: "Thien Quy Pham"
 excerpt: "Bayesian modeling, multi-omics integration, and causal inference for biomedical research."
 author_profile: true
 redirect_from:
