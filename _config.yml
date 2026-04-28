@@ -25,9 +25,13 @@ author:
   avatar           : "profile.png"
   name             : "Thien Quy Pham"
   pronouns         : "he/him/his"
-  bio              : "PhD candidate in Biostatistics, University of Pittsburgh. Bayesian modeling, multi-omics integration, and causal inference."
+  bio              : "PhD candidate · Biostatistics"
   location         : "Pittsburgh, PA"
   employer         : "University of Pittsburgh"
+  research_areas:
+    - "Bayesian modeling"
+    - "Multi-omics integration"
+    - "Causal & longitudinal inference"
   uri              : # URL
   email            : "qtp1@pitt.edu"
 

@@ -130,8 +130,29 @@
 /* ---------- Sidebar bio readability ---------- */
 .author__bio {
   font-family: var(--font-serif);
-  line-height: 1.5;
-  font-size: 0.92em;
+  line-height: 1.4;
+  font-size: 0.95em;
+  color: var(--ink);
+  font-weight: 600;
+  margin-bottom: 0.4em;
+}
+
+.author__research-areas {
+  list-style: none;
+  padding: 0.7em 0 0;
+  margin: 0.6em 0 0.2em;
+  border-top: 1px solid var(--rule);
+}
+
+.author__research-areas li {
+  font-family: var(--font-serif);
+  font-size: 0.78em;
+  font-variant: small-caps;
+  letter-spacing: 0.08em;
+  color: var(--accent);
+  font-weight: 600;
+  padding: 0.18em 0;
+  line-height: 1.35;
 }
 
 /* ---------- Page title ---------- */
