@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/home.css' | absolute_url }}">
+<link rel="stylesheet" href="{{ '/assets/css/home.css' | absolute_url }}?v=20260428b">
 
 <div class="intro-block">
   <p class="lead">
