@@ -3,6 +3,12 @@
    Goal: editorial readability across Publications, Teaching, CV, etc.
    ================================================================= */
 
+/* Smooth in-page anchor jumps — pairs with scroll-margin-top below so the
+   Research nav and any other #fragment link eases into place. */
+html {
+  scroll-behavior: smooth;
+}
+
 /* Anchor-jump buffer: masthead is position:fixed at 70px, so #anchor
    links would otherwise land the heading flush under the bar. */
 h1, h2, h3, h4, h5, h6 {
@@ -26,10 +32,18 @@ body {
 
 /* Kraft/oak masthead — autumnal warmth that gives the fixed bar a clear
    edge against the sage page. Loaded after main.css so this wins over the
-   theme's --global-bg-color binding. */
+   theme's --global-bg-color binding. The inner nav wrapper and individual
+   menu items also have hardcoded backgrounds tied to --global-bg-color in
+   _navigation.scss / _masthead.scss; making them transparent lets the
+   kraft bg show through instead of painting sage rectangles over it. */
 .masthead {
   background: #d8cdb0;
   border-bottom: 1px solid rgba(31, 29, 26, 0.12);
+}
+
+.masthead .greedy-nav,
+.masthead__menu-item {
+  background: transparent;
 }
 
 :root {
