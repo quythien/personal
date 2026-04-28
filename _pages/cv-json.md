@@ -38,7 +38,6 @@ redirect_from:
   }
 </style>
 
-<!-- Header section with title and download link side-by-side -->
 <div class="cv-header">
   <h1>Curriculum Vitae</h1>
   <div class="cv-download-links">
@@ -46,51 +45,48 @@ redirect_from:
   </div>
 </div>
 
-
 ## Education
 
-* **Ph.D. in Biostatistics**, University of Pittsburgh (Aug 2021 – May 2026, GPA: 3.85)  
-* **B.S. in Statistics & B.S. in Mathematics**, University of North Carolina at Chapel Hill (Sep 2017 – May 2021, GPA: 3.85)  
-  * Honors: Phi Beta Kappa, Dean’s List  
+* **Ph.D. Candidate in Biostatistics**, University of Pittsburgh (Aug 2021 – Dec 2026, GPA: 3.85)
+* **B.S. in Statistics & B.S. in Mathematics**, University of North Carolina at Chapel Hill (Sep 2017 – May 2021, GPA: 3.85)
+  * Highest Distinction. Honors: Phi Beta Kappa, Dean's List
 
 ## Skills
 
-* **Programming**:  
-  R, R Shiny, Python, STATA, SQL, Bash (proficient); Java, C++, SAS (familiar)  
-* **Statistical & ML**:  
-  Bayesian modeling, optimization, machine learning, deep learning (PyTorch), causal inference  
-* **Research**:  
-  High-dimensional multi-omics, longitudinal analysis, circadian rhythmicity methods  
-* **Tools & Platforms**:  
-  Scanpy, Seurat, VAE, GMM, AWS, Google Colab, STAR, Hisat2  
+* **Programming**: R, R Shiny, Python, STATA, SQL, Bash (proficient); Java, C++, SAS (familiar)
+* **Statistical & ML**: Statistical inference, optimization & stochastic models, Bayesian statistics, causal inference, clinical trials, deep learning (PyTorch), classical ML (scikit-learn)
+* **Research**: Biomarker detection in high-dimensional omics data, longitudinal & correlated-data analysis, generative models for multimodal data integration
+* **Tools & Pipelines**: STAR, Hisat2, Scanpy, Seurat, PyTorch Geometric, AWS, high-throughput computing
 
 ## Professional Experience
 
-* **Senior Statistician Intern**, Otsuka (May 2025 – Aug 2025)  
-  - Contributed to the design and analysis of a clinical trial focused on kidney disease  
-  - Assisted in preparing statistical analysis plans and clinical study reports  
+* **Senior Statistician Intern**, Otsuka America Pharmaceutical (May 2025 – Aug 2025)
+  - Built an internal SAS pipeline for Bayesian meta-analysis using shared-parameter models with simulation, supporting Phase 3 efficacy analysis of sibeprenlimab in IgA nephropathy
+  - Evaluated urinary protein as a surrogate endpoint via mixed-effects and survival modeling
+  - Conducted a systematic literature review and applied MNAR multiple imputation with sensitivity analyses for a brexpiprazole + sertraline PTSD trial
 
-* **Graduate Research Assistant**, UPMC – University of Pittsburgh (Aug 2021 – Present)  
-  - Developed and applied Bayesian/machine learning models for large-scale omics data  
-  - Investigated circadian biomarker detection techniques  
-  - Performed multi-modal data integration and domain adaptation  
+* **Graduate Research Assistant — UPMC, Multi-omics Bioinformatics & Bayesian Lab**, University of Pittsburgh (Aug 2021 – Present)
+  - Hierarchical Bayesian and ML models (XGBoost, Random Forest, unsupervised clustering) for novel cross-species concordance metrics in high-dimensional omics
+  - Evaluated circadian biomarkers from multi-omics data in early-phase oncology trials, assessing sex- and condition-specific effects across brain regions and tissues
+  - Streamlined RNA-seq, single-cell RNA-seq, and proteomics preprocessing pipelines (STAR, Hisat2)
+  - Integrated multi-modal single-cell data using deep learning (PyTorch) and probabilistic models with domain adaptation
+  - Applied SmCCNet (phenotype-guided sparse multi-CCA) to integrate DNA methylation (450K/EPIC), RNA-seq, and proteomics with cis-eQTM mapping (±1 Mb) for cross-omics modules
+  - Designed graph-based ML models in PyTorch Geometric to infer gene–disease causal relationships
 
-* **Graduate RA**, Department of Infectious Disease (Aug 2023 – Present)  
-  - Employed GEE and mixed-effects models for HIV data  
-  - Conducted a longitudinal mediation analysis on dry needling interventions  
+* **Graduate Research Assistant — Department of Infectious Disease**, University of Pittsburgh (Aug 2023 – Present)
+  - Mixed-effect models and GEE for clinical-trial data, deriving insights to improve HIV treatment adherence and quality of life among women industrial-zone workers
+  - Longitudinal mediation models estimating short-term causal effects of dry needling, identifying pain reduction as a mediator of disability outcomes
 
-* **Undergraduate RA**, Carolina Center for Neurostimulation (Aug – Dec 2019)  
-  - Modeled cortical synchrony using Python and MATLAB  
+* **Undergraduate Research Assistant**, Carolina Center for Neurostimulation, Chapel Hill, NC (Aug 2019 – Dec 2019)
+  - Investigated thalamus–cortex synchrony using Python and MATLAB to advance brain-stimulation modeling
 
-* **Research Intern**, Hill-Rom, NC (Jun – Aug 2020)  
-  - Performed exploratory analyses and literature review for pediatric sepsis prediction  
+* **Research Assistant Intern**, Hill-Rom, Cary, NC (Jun 2020 – Aug 2020)
+  - Conducted exploratory analyses and literature review for ML models predicting pediatric sepsis in ICU settings
 
-## Deep Learning Projects
+## Other Projects
 
-* **Phoneme Recognition**  
-  - Employed CNNs, RNNs, and VAEs for accurate audio-text alignment  
-* **Diffusion Models**  
-  - Implemented DDIM and EMA on ImageNet-100 to explore class-specific performance  
+* **Phoneme recognition (deep learning)**: CNN/RNN models with VAEs and efficient sampling to improve audio-text alignment
+* **Diffusion models**: DDIM, VAE, and EMA on ImageNet-100, exploring class-specific performance on reduced-class subsets
 
 ## Publications
 
@@ -100,44 +96,34 @@ redirect_from:
   {% endfor %}
 </ul>
 
-<!--
-## Talks
-
-<ul>
-  {% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}
-</ul>
--->
-
 ## Teaching Experience
 
-* **Graduate TA**, University of Pittsburgh  
-  - BIOST 2086: Mixed Models (Spring 2024)  
-  - BIOST 2050: Longitudinal Data Analysis (Fall 2023)  
-  - BIOST 2041: Statistical Methods (Spring 2022)  
-  - BIOST 2038: Statistical Theory (Fall 2021, 2022)  
+* **University of Pittsburgh — Department of Biostatistics**
+  - BIOST 2086: Mixed Models (Spring 2024)
+  - BIOST 2050: Longitudinal and Clustered Data Analysis (Fall 2023)
+  - BIOST 2041: Introduction to Statistical Methods (Spring 2022)
+  - BIOST 2038: Foundation of Statistical Theory (Fall 2021, Fall 2022)
 
-* **Institute for Clinical Research Education**  
-  - CLRES 2020/2005: Biostatistics & Computing (Summers 2022, 2024)  
+* **University of Pittsburgh — Institute for Clinical Research Education**
+  - CLRES 2020: Biostatistics (Summer 2022, Summer 2024)
+  - CLRES 2005: Computational Methods for Clinical Research (Summer 2022, Summer 2024)
 
-* **Undergraduate TA**, UNC-Chapel Hill  
-  - MATH 547: Linear Algebra (Fall 2019)  
+* **UNC–Chapel Hill — Department of Mathematics**
+  - MATH 547: Linear Algebra (Fall 2019)
 
 ## Awards
 
-* Travel Funding Award – STATGEN Conference (2025): Awarded for presenting research on **Bayesian modeling for cross-species circadian rhythm congruence analysis**
-* Dean's Day Biostatistics Doctoral Award (2025)
+* Travel Funding Award — STATGEN Conference (2025)
+* Biostatistics Dean's Day Doctoral Award (2025)
 * Outstanding Teaching Assistant (TA) Award (2025)
-* Phi Beta Kappa, University of North Carolina - Chapel Hill (Top 1%)  
-* International Championship of Collegiate A Cappella (ICCA) Semi-Finalist (2019 & 2020)  
-* Multiple “Outstanding Student” awards, Pham Ngoc Thach University of Medicine
-* City-Level Biology Olympiad Winner (2013 & 2014)  
+* Phi Beta Kappa, top 1%, UNC–Chapel Hill (2021)
+* International Championship of Collegiate A Cappella — Semi-finalist, 2nd place (2019, 2020)
+* Outstanding Student Scholarship, top 1%, Pham Ngoc Thach University of Medicine (2015, 2016)
+* Excellent Student at City Level in Biology, 2nd place (2011, 2013, 2014)
 
 ## Leadership & Membership
 
-* Member, ASA – Pittsburgh Chapter  
-* Member, Pittsburgh Men’s Glee Club  
-* Fundraising Committee, Tar Heel Voices (UNC)  
-* Class President, Pham Ngoc Thach University (2014–2016)
-
+* American Statistical Association — Pittsburgh Chapter, Member (2021–Present)
+* Pittsburgh Men's Glee Club, Member (2023–Present)
+* Tar Heel Voices (UNC co-ed a cappella), Fundraising Committee (2019–2021)
+* Pham Ngoc Thach University of Medicine, Class President (2014–2016)

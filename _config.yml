@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Thien Quy Pham"
+title                    : "Thien (Theo) Pham"
 title_separator          : "-"
-name                     : &name "Thien"
-description              : &description "personal description"
+name                     : &name "Thien (Theo) Pham"
+description              : &description "PhD candidate in Biostatistics at the University of Pittsburgh — Bayesian modeling, multi-omics integration, and causal inference."
 url                      : https://quythien.github.io/personal/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "quythien/personal" # the name of your GitHub repository, e.g. "username/repository"
@@ -23,13 +23,13 @@ repository               : "quythien/personal" # the name of your GitHub reposit
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Thien Quy Pham"
-  pronouns         : "he/him/his"  
-  bio              : "Ph.D. candidate in Biostatistics"
-  location         : "U.S.A."
+  name             : "Thien (Theo) Pham"
+  pronouns         : "he/him/his"
+  bio              : "PhD candidate in Biostatistics, University of Pittsburgh. Bayesian modeling, multi-omics integration, and causal inference."
+  location         : "Pittsburgh, PA"
   employer         : "University of Pittsburgh"
   uri              : # URL
-  email            : "qtp1@pitt.edu" 
+  email            : "qtp1@pitt.edu"
 
   # Academic websites
   #arxiv            : # URL - Update with the correct link to your profile
@@ -59,7 +59,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "quythien"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
