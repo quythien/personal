@@ -182,6 +182,7 @@ exclude:
   - LICENSE
   - local
   - log
+  - scripts
   - node_modules
   - package.json*
   - Rakefile

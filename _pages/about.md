@@ -167,10 +167,13 @@ redirect_from:
 
 <ul class="news-list">
   <li><span class="news-date">May 2026</span><span class="news-body">Presenting <em>Comparative Bayesian multi-level framework for evaluating differential circadian synchrony across conditions</em> at <strong>Statgen 2026</strong>.</span></li>
+  <li><span class="news-date">May 2026</span><span class="news-body">Awarded a <strong>Statgen 2026 travel award</strong> to attend the conference.</span></li>
   <li><span class="news-date">Apr 2026</span><span class="news-body">Accepted a Special Faculty (Postdoctoral Researcher) position in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, beginning January 2027, with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</span></li>
   <li><span class="news-date">Apr 2026</span><span class="news-body">Co-authored <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em>, accepted in <em>PNAS</em>.</span></li>
   <li><span class="news-date">Mar 2026</span><span class="news-body">Published first-author work on tailored interventions for men living with HIV in <em>Quality of Life Research</em>.</span></li>
   <li><span class="news-date">May 2025</span><span class="news-body">Received the Outstanding Teaching Assistant Award from the Department of Biostatistics.</span></li>
+  <li><span class="news-date">May 2025</span><span class="news-body">Received the <strong>Dean's Day Award</strong> from the School of Public Health.</span></li>
+  <li><span class="news-date">Apr 2025</span><span class="news-body">Passed the Ph.D. proposal exam and advanced to candidacy.</span></li>
 </ul>
 
 <p class="closing-note">
