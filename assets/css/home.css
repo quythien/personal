@@ -365,7 +365,7 @@
   font-size: 0.95em;
   line-height: 1.55;
   color: var(--ink);
-  padding: 0.8em 0 0.8em 5em;
+  padding: 0.8em 0 0.8em 7.5em;
   border-bottom: 1px solid var(--rule);
   position: relative;
 }
@@ -373,12 +373,14 @@
   position: absolute;
   left: 0;
   top: 0.95em;
-  width: 4em;
+  width: 6em;
+  padding-right: 0.5em;
   font-variant: small-caps;
   letter-spacing: 0.05em;
   color: var(--accent);
   font-weight: 600;
   font-size: 0.88em;
+  white-space: nowrap;
 }
 .news-list li a {
   color: var(--accent);
