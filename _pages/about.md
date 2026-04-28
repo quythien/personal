@@ -17,25 +17,23 @@ redirect_from:
     at the University of Pittsburgh, where I work in the
     <em>Bioinformatics and Statistical Machine Learning Group</em> led by
     <a href="https://tsenglab.biostat.pitt.edu/">Dr. George Tseng</a>.
-    Before Pitt, I earned a B.S. in Statistics and a B.S. in Mathematics with Highest Distinction
-    from the University of North Carolina at Chapel Hill, where I was elected to Phi Beta Kappa.
-    I have been interested in biology from a young age, which led me to medical training in Vietnam
-    and continues to motivate my work at the intersection of statistics and biomedical research.
+    Before Pitt, I studied statistics and mathematics at UNC&ndash;Chapel Hill and trained
+    in medicine in Vietnam &mdash; a path that continues to shape how I work between
+    statistics and biomedical research.
   </p>
 
   <p>
     My research develops <strong>statistical and computational methods</strong> for high-dimensional
     biomedical data, with a focus on <em>Bayesian modeling of circadian rhythms</em>,
-    <em>multi-omics integration</em>, and <em>causal &amp; longitudinal inference</em>.
-    I work across short-read and single-cell RNA-seq, DNA methylation, proteomics, and
-    longitudinal clinical data.
+    <em>multi-omics integration</em>, and <em>causal &amp; longitudinal inference</em>
+    across RNA-seq, single-cell, DNA methylation, proteomics, and longitudinal clinical data.
   </p>
 
   <p class="funding-note">
-    Graduating <strong>December 2026</strong>. I'm thrilled to be joining the
+    Graduating <strong>December 2026</strong>, then joining the
     <a href="https://www.cmu.edu/dietrich/statistics-datascience/">Department of Statistics and Data Science</a>
     at <strong>Carnegie Mellon University</strong> as Special Faculty (Post-doctoral Researcher)
-    under the guidance of <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.
+    with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.
   </p>
 </div>
 
@@ -163,29 +161,12 @@ redirect_from:
   <a href="{{ '/publications/' | absolute_url }}">See the full publication list →</a>
 </p>
 
-## Looking ahead · Collaborate
+## Collaborate
 
 <div class="cta-grid">
 
-  <div class="cta-card cta-students">
-    <div class="cta-eyebrow">Starting January 2027</div>
-    <h3>Joining CMU as a Postdoctoral Researcher</h3>
-    <p>
-      I'm joining the <strong>Department of Statistics and Data Science</strong> at
-      <strong>Carnegie Mellon University</strong> as Special Faculty (Post-doctoral Researcher),
-      working with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a> on
-      statistical methods for high-dimensional biomedical data.
-    </p>
-    <ul class="cta-list">
-      <li>Bayesian / hierarchical modeling and methodology development</li>
-      <li>Single-cell &amp; bulk omics integration</li>
-      <li>Causal &amp; longitudinal inference for trials and cohorts</li>
-    </ul>
-    <a class="cta-button" href="mailto:quythien14@gmail.com?subject=Hello">Get in touch</a>
-  </div>
-
   <div class="cta-card cta-collab">
-    <div class="cta-eyebrow">Biomedical collaborators</div>
+    <div class="cta-eyebrow">Open to new projects</div>
     <h3>Research collaboration</h3>
     <p>
       I collaborate broadly across <em>circadian biology</em>, <em>psychiatry</em>,
@@ -193,8 +174,9 @@ redirect_from:
       longitudinal-trial dataset and a methodological question, I'm happy to discuss.
     </p>
     <ul class="cta-list">
-      <li>Method development driven by real biological problems</li>
-      <li>Analysis on RNA-seq, single-cell, methylation, proteomics, clinical</li>
+      <li>Method development grounded in real biological problems</li>
+      <li>Analysis across RNA-seq, single-cell, methylation, proteomics, and clinical data</li>
+      <li>Bayesian, causal, and longitudinal inference for trials and cohorts</li>
     </ul>
     <a class="cta-button cta-button-alt" href="mailto:quythien14@gmail.com?subject=Research%20collaboration">Start a conversation</a>
   </div>
@@ -207,13 +189,10 @@ redirect_from:
   <li><span class="news-date">Apr 2026</span> Joining the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong> as Special Faculty (Post-doctoral Researcher) with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a> in 2027.</li>
   <li><span class="news-date">Apr 2026</span> Co-author: <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em> accepted at <em>PNAS</em> (Barko, Shelton, et al.).</li>
   <li><span class="news-date">Mar 2026</span> First author: <em>Tailored interventions for men living with HIV</em> published in <em>Quality of Life Research</em>.</li>
-  <li><span class="news-date">Aug 2025</span> Completed Senior Statistician Internship at Otsuka America Pharmaceutical (Bayesian meta-analysis for Phase 3 IgA nephropathy trial).</li>
-  <li><span class="news-date">May 2025</span> Passed the Ph.D. Proposal Exam and advanced to Ph.D. candidacy.</li>
+  <li><span class="news-date">Aug 2025</span> Completed Senior Statistician Internship at Otsuka America Pharmaceutical (Bayesian meta-analysis for a Phase 3 IgA nephropathy trial).</li>
+  <li><span class="news-date">May 2025</span> Advanced to Ph.D. candidacy after passing the Proposal Exam.</li>
   <li><span class="news-date">May 2025</span> Awarded the Outstanding Teaching Assistant Award, Department of Biostatistics.</li>
   <li><span class="news-date">Apr 2025</span> Awarded the Biostatistics Dean's Day Doctoral Award.</li>
-  <li><span class="news-date">Mar 2025</span> Travel Funding Award — STATGEN Conference (Bayesian cross-species circadian rhythm congruence).</li>
-  <li><span class="news-date">Aug 2024</span> Passed the Comprehensive Written Qualifying Exam.</li>
-  <li><span class="news-date">Aug 2024</span> Co-author: <em>Unraveling the mechanisms behind the short-term effects of dry needling: new insights from a mediation analysis with repeatedly measured mediators and outcomes</em> accepted at <em>Archives of Physical Medicine and Rehabilitation</em>.</li>
 </ul>
 
 <p class="closing-note">
