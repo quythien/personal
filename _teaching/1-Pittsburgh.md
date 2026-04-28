@@ -1,5 +1,5 @@
 ---
-layout: teaching
+layout: single
 title: "University of Pittsburgh"
 collection: teaching
 type: "Graduate courses"

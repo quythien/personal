@@ -1,5 +1,5 @@
 ---
-layout: teaching
+layout: single
 title: "University of North Carolina - Chapel Hill"
 collection: teaching
 type: "Undergraduate courses"
