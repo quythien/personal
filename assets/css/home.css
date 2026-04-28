@@ -13,20 +13,20 @@
   max-width: 42em;
 }
 .intro-block .lead {
-  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  font-family: var(--font-serif);
   font-size: 1.08em;
   line-height: 1.6;
   color: var(--ink);
 }
 .intro-block p {
-  font-family: Georgia, "Iowan Old Style", "Palatino Linotype", serif;
+  font-family: var(--font-serif);
   line-height: 1.65;
   color: var(--ink-soft);
 }
 .intro-block a {
   color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid rgba(122, 46, 31, 0.25);
+  border-bottom: 1px solid rgba(var(--accent-rgb), 0.25);
   transition: border-color 0.15s ease;
 }
 .intro-block a:hover {
@@ -35,7 +35,7 @@
 .funding-note {
   font-size: var(--text-small);
   padding: 0.9em 1.1em;
-  background: #f4efe2;
+  background: #ece4cd;
   border-left: 3px solid var(--gold);
   color: var(--ink-soft);
 }
@@ -62,14 +62,14 @@
   border-radius: 2px;
   transition: transform 0.2s ease, box-shadow 0.2s ease;
 }
-.theme-card:nth-child(2) { border-top-color: var(--olive); }
+.theme-card:nth-child(2) { border-top-color: var(--clay); }
 .theme-card:nth-child(3) { border-top-color: var(--accent); }
 .theme-card:hover {
   transform: translateY(-2px);
   box-shadow: 0 6px 18px rgba(30, 25, 20, 0.08);
 }
 .theme-kicker {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-micro);
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -78,14 +78,14 @@
   opacity: 0.7;
 }
 .theme-card h3 {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: 1.2em;
   font-weight: 600;
   color: var(--ink);
   margin: 0 0 0.5em;
 }
 .theme-card p {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-small);
   line-height: 1.55;
   color: var(--ink-soft);
@@ -129,7 +129,7 @@
   text-align: center;
 }
 .pub-figure-mark {
-  font-family: Georgia, "Iowan Old Style", serif;
+  font-family: var(--font-serif);
   font-size: 1.05em;
   font-weight: 600;
   color: var(--ink-soft);
@@ -156,7 +156,7 @@
   font-variant: small-caps;
 }
 .pub-body h3 {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: 1.2em;
   font-weight: 700;
   color: var(--ink);
@@ -164,7 +164,7 @@
   letter-spacing: -0.01em;
 }
 .pub-tagline {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-body);
   line-height: 1.5;
   color: var(--ink);
@@ -172,7 +172,7 @@
 }
 .pub-tagline em { color: var(--accent); font-style: italic; }
 .pub-meta {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-small);
   color: var(--ink-soft);
   margin: 0 0 0.55em;
@@ -180,14 +180,14 @@
 }
 .pub-meta em { font-style: italic; }
 .pub-links {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-small);
   margin: 0;
 }
 .pub-links a, .pub-meta a {
   color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid rgba(122, 46, 31, 0.3);
+  border-bottom: 1px solid rgba(var(--accent-rgb), 0.3);
   padding-bottom: 1px;
   transition: border-color 0.15s ease;
 }
@@ -201,7 +201,7 @@
 }
 .tag {
   display: inline-block;
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-micro);
   letter-spacing: 0.12em;
   text-transform: uppercase;
@@ -210,7 +210,7 @@
   font-weight: 600;
 }
 .tag-method {
-  background: #ece5d4;
+  background: #e3e8df;
   color: var(--ink-soft);
 }
 .tag-year {
@@ -227,13 +227,13 @@
 .see-all-pubs {
   text-align: right;
   margin-top: 0.3em;
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-body);
 }
 .see-all-pubs a {
   color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid rgba(122, 46, 31, 0.3);
+  border-bottom: 1px solid rgba(var(--accent-rgb), 0.3);
 }
 .see-all-pubs a:hover { border-bottom-color: var(--accent); }
 
@@ -251,15 +251,15 @@
   overflow: hidden;
 }
 .cta-students {
-  background: linear-gradient(135deg, #f4efe2 0%, #ece5d4 100%);
-  border: 1px solid #d8ceb4;
+  background: linear-gradient(135deg, #ece4cd 0%, #ddd1b3 100%);
+  border: 1px solid #ccc1a3;
 }
 .cta-collab {
-  background: linear-gradient(135deg, #eaeef0 0%, #d8dfe3 100%);
-  border: 1px solid #bdc7ce;
+  background: linear-gradient(135deg, #e8efe9 0%, #d4ddd6 100%);
+  border: 1px solid #bccdc4;
 }
 .cta-eyebrow {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-micro);
   letter-spacing: 0.18em;
   text-transform: uppercase;
@@ -267,14 +267,14 @@
   margin-bottom: 0.6em;
 }
 .cta-card h3 {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: 1.2em;
   font-weight: 700;
   color: var(--ink);
   margin: 0 0 0.55em;
 }
 .cta-card p {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-body);
   line-height: 1.58;
   color: var(--ink);
@@ -287,7 +287,7 @@
   margin: 0 0 1.1em;
 }
 .cta-list li {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-small);
   color: var(--ink-soft);
   padding: 0.3em 0 0.3em 1em;
@@ -304,11 +304,11 @@
 .cta-list a {
   color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid rgba(122, 46, 31, 0.3);
+  border-bottom: 1px solid rgba(var(--accent-rgb), 0.3);
 }
 .cta-button {
   display: inline-block;
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-small);
   padding: 0.7em 1.4em;
   background: var(--accent);
@@ -320,7 +320,7 @@
   transition: background 0.15s ease, transform 0.15s ease;
 }
 .cta-button:hover {
-  background: #5a2014;
+  background: var(--accent-deep);
   transform: translateY(-1px);
 }
 .cta-button-alt {
@@ -338,10 +338,10 @@
 }
 .news-list li {
   display: grid;
-  grid-template-columns: 6.5em 1fr;
-  column-gap: 1em;
+  grid-template-columns: 7.5em 1fr;
+  column-gap: 1.2em;
   align-items: baseline;
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-body);
   line-height: 1.55;
   color: var(--ink);
@@ -355,30 +355,31 @@
   font-weight: 600;
   font-size: var(--text-small);
   white-space: nowrap;
+  padding-right: 0.6em;
 }
 .news-list li a {
   color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid rgba(122, 46, 31, 0.3);
+  border-bottom: 1px solid rgba(var(--accent-rgb), 0.3);
 }
 .news-list li a:hover { border-bottom-color: var(--accent); }
 
 /* ---------- Closing note ---------- */
 .closing-note {
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
   font-size: var(--text-body);
   line-height: 1.6;
   color: var(--ink-soft);
   margin-top: 1.8em;
   padding: 1em 1.2em;
   background: var(--paper);
-  border-left: 3px solid var(--olive);
+  border-left: 3px solid var(--accent-soft);
   border-radius: 2px;
 }
 .closing-note a {
   color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid rgba(122, 46, 31, 0.3);
+  border-bottom: 1px solid rgba(var(--accent-rgb), 0.3);
 }
 .closing-note a:hover { border-bottom-color: var(--accent); }
 
@@ -386,17 +387,17 @@
 .pub-legend {
   font-size: var(--text-small);
   color: var(--ink-soft);
-  background: #f4efe2;
+  background: #ece4cd;
   border-left: 3px solid var(--gold);
   padding: 0.8em 1.1em;
   margin: 0.5em 0 2em;
   line-height: 1.55;
-  font-family: Georgia, serif;
+  font-family: var(--font-serif);
 }
 .pub-legend a {
   color: var(--accent);
   text-decoration: none;
-  border-bottom: 1px solid rgba(122, 46, 31, 0.3);
+  border-bottom: 1px solid rgba(var(--accent-rgb), 0.3);
 }
 
 /* ---------- Responsive ---------- */

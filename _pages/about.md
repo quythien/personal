@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<link rel="stylesheet" href="{{ '/assets/css/home.css' | absolute_url }}?v=20260428b">
+<link rel="stylesheet" href="{{ '/assets/css/home.css' | absolute_url }}?v=20260428d">
 
 <div class="intro-block">
   <p class="lead">
@@ -95,14 +95,14 @@ redirect_from:
     <div class="pub-figure">
       <div class="pub-figure-mark">
         <span class="venue">In prep</span>
-        Cross-species<br>circadian
+        BayesRC<br>circadian
         <span class="year">2026</span>
       </div>
     </div>
     <div class="pub-body">
       <div class="pub-tags"><span class="tag tag-method">Bayesian · Circadian</span><span class="tag tag-year">In prep, 2026</span></div>
-      <h3>Cross-species circadian congruence</h3>
-      <p class="pub-tagline">A <em>Bayesian framework</em> for inferring shared and divergent circadian phase programs across species via meta-analysis.</p>
+      <h3>BayesRC: circadian synchrony across conditions</h3>
+      <p class="pub-tagline">A <em>comparative Bayesian multilevel framework</em> for evaluating circadian synchrony across conditions via meta-analysis.</p>
       <p class="pub-meta"><strong>Pham TQ</strong>, Tseng GC, et al. <em>In preparation.</em></p>
     </div>
   </article>
@@ -161,7 +161,7 @@ redirect_from:
   <a href="{{ '/publications/' | absolute_url }}">See the full publication list →</a>
 </p>
 
-## Collaborate
+## Open to collaboration
 
 <div class="cta-grid">
 
@@ -169,14 +169,16 @@ redirect_from:
     <div class="cta-eyebrow">Open to new projects</div>
     <h3>Research collaboration</h3>
     <p>
-      I collaborate broadly across <em>circadian biology</em>, <em>psychiatry</em>,
-      <em>HIV care</em>, and <em>rehabilitation</em>. If you have a multi-omics or
-      longitudinal-trial dataset and a methodological question, I'm happy to discuss.
+      My experience spans the full multi-omics pipeline — from raw sequencing reads and quality control through bulk and single-cell RNA-seq, ATAC-seq, DNA methylation, and proteomics — alongside longitudinal and electronic health record data. My goal is to integrate these layers into a coherent biological story that identifies reliable biomarkers and informs precision medicine and clinical decision-making.
+    </p>
+    <p>
+      Beyond academia, I've gained hands-on industry experience as a biostatistician on two pharmaceutical clinical trials — an end-stage kidney disease (ESKD) trial at Otsuka and an oncology trial at Merck. Working across nephrology and oncology grounded me in regulatory-grade trial design, survival and longitudinal endpoints, and the cross-functional reality of how methodological choices shape drug approval and patient care.
+    </p>
+    <p>
+      If you have a multi-omics or longitudinal-trial dataset and a methodological question, I'm happy to discuss.
     </p>
     <ul class="cta-list">
       <li>Method development grounded in real biological problems</li>
-      <li>Analysis across RNA-seq, single-cell, methylation, proteomics, and clinical data</li>
-      <li>Bayesian, causal, and longitudinal inference for trials and cohorts</li>
     </ul>
     <a class="cta-button cta-button-alt" href="mailto:quythien14@gmail.com?subject=Research%20collaboration">Start a conversation</a>
   </div>
@@ -186,7 +188,7 @@ redirect_from:
 ## Recent news
 
 <ul class="news-list">
-  <li><span class="news-date">Apr 2026</span> Joining the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong> as Special Faculty (Post-doctoral Researcher) with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a> in 2027.</li>
+  <li><span class="news-date">Apr 2026</span> Accepted a position as Special Faculty (Post-doctoral Researcher) in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, starting January 2027, with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</li>
   <li><span class="news-date">Apr 2026</span> Co-author: <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em> accepted at <em>PNAS</em> (Barko, Shelton, et al.).</li>
   <li><span class="news-date">Mar 2026</span> First author: <em>Tailored interventions for men living with HIV</em> published in <em>Quality of Life Research</em>.</li>
   <li><span class="news-date">Aug 2025</span> Completed Senior Statistician Internship at Otsuka America Pharmaceutical (Bayesian meta-analysis for a Phase 3 IgA nephropathy trial).</li>

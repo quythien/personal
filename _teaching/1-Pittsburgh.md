@@ -11,7 +11,7 @@ author_profile: true
 ---
 
 **Course:**
-- Serving as Teaching Assistant and Teaching Fellow for various graduate courses in both theoretical and applied statistics. 
+- I served as a Graduate Teaching Assistant for four graduate biostatistics courses spanning statistical theory, mixed models, and longitudinal data analysis.
 
 ## Graduate Teaching Assistant — University of Pittsburgh
 
@@ -22,7 +22,7 @@ author_profile: true
 - **BIOST 2038: Statistical Theory** (Fall 2021, 2022)
 
 **Description:**  
-In my role as a Graduate TA at the University of Pittsburgh, I assisted in the delivery of advanced biostatistics courses. My responsibilities included leading discussion sessions, grading assignments, and facilitating review sessions to enhance students' learning experiences.
+My responsibilities included leading discussion sessions, grading assignments, and facilitating review sessions.
 
 ---
 
@@ -32,4 +32,4 @@ In my role as a Graduate TA at the University of Pittsburgh, I assisted in the d
 - **CLRES 2020/2005: Biostatistics & Computing** (Summers 2022, 2024)
 
 **Description:**  
-At the Institute for Clinical Research Education, I supported courses by organizing lab sessions, mentoring medical doctors in biostatistics and computing, and providing technical assistance during class projects.
+At the Institute for Clinical Research Education, I supported courses by organizing lab sessions, mentoring medical residents and clinical research fellows, and providing technical assistance during class projects.

@@ -5,15 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-A list of my publications and ongoing work. See my [Google Scholar profile](https://scholar.google.com/citations?user=4k6XtToAAAAJ&hl=en) and [ORCID](https://orcid.org/0009-0000-6710-5606) for the most up-to-date record.
+Below I list published work, papers under review, and manuscripts in preparation, organized by research area. See my [Google Scholar profile](https://scholar.google.com/citations?user=4k6XtToAAAAJ&hl=en) and [ORCID](https://orcid.org/0009-0000-6710-5606) for the most up-to-date record.
 
-## Methodological research (in preparation)
-
-- **Pham TQ**, Tseng GC, et al. (2026). *A Bayesian framework to investigate cross-species congruence in circadian rhythm.* [In preparation]
-
-- **Pham TQ**, Tseng GC, et al. (2026). *Inferring shared and divergent circadian phase programs across species with Bayesian meta-analysis.* [In preparation]
-
-## Clinical epidemiology &amp; public health
+## Clinical epidemiology and public health
 
 1. **Pham TQ**, Wu Q, Pan C, Ha L, Bui TC, Sujan MSH, Schensul SL, et al. (2026). *Enhancing quality of life through tailored interventions for men living with HIV.* **Quality of Life Research**, 35:27.
 
@@ -23,7 +17,7 @@ A list of my publications and ongoing work. See my [Google Scholar profile](http
 
 4. Ha T, **Pham TQ**, Nguyen N, Shrestha R, Schensul SL. (2025). *Prevalence and determinants of induced abortion among women migrant workers in an industrial zone in Vietnam: a cross-sectional study.* **Medicine (Baltimore)**, 104(40):e45005. [doi:10.1097/MD.0000000000045005](https://doi.org/10.1097/MD.0000000000045005)
 
-## Multi-omics &amp; translational psychiatry
+## Multi-omics and translational psychiatry
 
 1. Barko KN, Shelton MA, Kropp DR, **Pham TQ**, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. (2026). *Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions.* **Proceedings of the National Academy of Sciences (PNAS)**. [Accepted]
 
@@ -36,3 +30,9 @@ A list of my publications and ongoing work. See my [Google Scholar profile](http
 5. Barko K, **Pham TQ**, Seney M, et al. *Sex differences detected in the proteome of MDD subjects.* [Under review]
 
 6. Barko K, **Pham TQ**, Seney M, et al. *Microglial transcriptional responses to SCVS: brain region- and sex-specific profiles.* [In preparation]
+
+## Methodological work in preparation
+
+- **Pham TQ**, Tseng GC, et al. (2026). *BayesRC: a comparative Bayesian multilevel framework for evaluating circadian synchrony across conditions.* [In preparation]
+
+- **Pham TQ**, Tseng GC, et al. (2026). *Simulation-Based Power Calculation and Study Design for Circadian Rhythmic Analysis.* [In preparation]
