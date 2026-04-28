@@ -53,7 +53,7 @@ body {
   --ink: #1f1d1a;
   --ink-soft: #4a463f;
   --paper: #f6f3ec;             /* bone */
-  --rule: #d9d4c8;
+  --rule: #a8a294;              /* warm gray — visible against sage page and white cards */
   --accent: #2d5d4f;            /* deep evergreen */
   --accent-soft: #4a7d6f;       /* sage, for hover/secondary */
   --accent-deep: #1f4338;       /* darker forest, for button hover */
