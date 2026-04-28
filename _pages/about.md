@@ -36,8 +36,7 @@ redirect_from:
   </p>
 </div>
 
-Research themes
-===============
+## Research themes
 
 <div class="themes-grid">
   <div class="theme-card">
@@ -71,8 +70,7 @@ Research themes
   </div>
 </div>
 
-Featured work
-=============
+## Featured work
 
 <div class="featured-pubs">
 
@@ -131,8 +129,7 @@ Featured work
   <a href="{{ '/publications/' | relative_url }}">See the full publication list →</a>
 </p>
 
-Recent news
-===========
+## Recent news
 
 <ul class="news-list">
   <li><span class="news-date">2026</span> Co-authored paper accepted at <em>PNAS</em>: <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em> (Barko, Shelton, et al.).</li>
