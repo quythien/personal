@@ -27,10 +27,15 @@ redirect_from:
   </p>
 
   <p>
-    Before Pittsburgh, I studied statistics and mathematics at UNC&ndash;Chapel Hill after
-    initial training in medicine in Vietnam. That background still shapes the questions I am
-    drawn to: problems where methodological choices matter for biological interpretation or
-    clinical research.
+    I began my training as a medical student in Vietnam, where the questions I cared about
+    most kept turning out to be quantitative ones &mdash; why diseases unfold the way they do,
+    why some patients respond to treatment and others don't, why the same intervention seems
+    to work in one population and fail in another. The clinical setting taught me which
+    questions matter; it didn't give me the tools to answer them. I followed those tools to
+    UNC&ndash;Chapel Hill for statistics and mathematics, and then to Pittsburgh for
+    biostatistics. The methodological work I do now &mdash; on circadian biology, multi-omics
+    integration, and longitudinal clinical data &mdash; remains motivated by the patients
+    and biological questions that first drew me in.
   </p>
 
   <p class="funding-note">
