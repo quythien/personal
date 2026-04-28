@@ -24,6 +24,14 @@ body {
   }
 }
 
+/* Kraft/oak masthead — autumnal warmth that gives the fixed bar a clear
+   edge against the sage page. Loaded after main.css so this wins over the
+   theme's --global-bg-color binding. */
+.masthead {
+  background: #d8cdb0;
+  border-bottom: 1px solid rgba(31, 29, 26, 0.12);
+}
+
 :root {
   /* Sage-tinted page tone — overrides MM default of #fff. */
   --global-bg-color: #eff1e7;
