@@ -34,7 +34,7 @@ redirect_from:
   </p>
 
   <p class="funding-note">
-    I expect to graduate in <strong>November 2026</strong> and will join the
+    I expect to graduate in <strong>November 2026</strong> and am fortunate to be joining the
     <a href="https://www.cmu.edu/dietrich/statistics-datascience/">Department of Statistics and Data Science</a>
     at <strong>Carnegie Mellon University</strong> in December 2026 as Special Faculty
     (Postdoctoral Researcher) under the guidance of <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.
