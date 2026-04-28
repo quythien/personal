@@ -13,9 +13,10 @@ redirect_from:
 <div class="intro-block">
   <p class="lead">
     I'm a PhD candidate in
-    <a href="https://www.publichealth.pitt.edu/biostatistics-and-health-data-science">Biostatistics and Health Data Science</a>
-    at the University of Pittsburgh, advised by
-    <a href="https://www.publichealth.pitt.edu/home/directory/george-c-tseng">Dr. George Tseng</a>.
+    <a href="https://www.publichealth.pitt.edu/biostatistics">Biostatistics and Health Data Science</a>
+    at the University of Pittsburgh, where I work in the
+    <em>Bioinformatics and Statistical Machine Learning Group</em> led by
+    <a href="https://tsenglab.biostat.pitt.edu/">Dr. George Tseng</a>.
     Before Pitt, I earned a B.S. in Statistics and a B.S. in Mathematics with Highest Distinction
     from the University of North Carolina at Chapel Hill, where I was elected to Phi Beta Kappa.
     My path to biostatistics began in medical school in Vietnam, and I'm motivated by methods
@@ -31,7 +32,10 @@ redirect_from:
   </p>
 
   <p class="funding-note">
-    Currently expecting to graduate <strong>December 2026</strong>. Open to <strong>postdoctoral and industry positions</strong> in biostatistics, computational biology, and clinical data science.
+    Graduating <strong>December 2026</strong>. I'm thrilled to be joining the
+    <a href="https://www.cmu.edu/dietrich/statistics-datascience/">Department of Statistics and Data Science</a>
+    at <strong>Carnegie Mellon University</strong> as Special Faculty (Post-doctoral Researcher)
+    under the guidance of <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.
   </p>
 </div>
 
@@ -164,20 +168,20 @@ redirect_from:
 <div class="cta-grid">
 
   <div class="cta-card cta-students">
-    <div class="cta-eyebrow">Graduating December 2026</div>
-    <h3>Open to opportunities</h3>
+    <div class="cta-eyebrow">Starting January 2027</div>
+    <h3>Joining CMU as a Postdoctoral Researcher</h3>
     <p>
-      I'm actively exploring <strong>postdoctoral fellowships and industry positions</strong>
-      in biostatistics, computational biology, and clinical data science.
-      If your team works on Bayesian methodology, multi-omics, or trial analytics,
-      I'd love to talk.
+      I'm joining the <strong>Department of Statistics and Data Science</strong> at
+      <strong>Carnegie Mellon University</strong> as Special Faculty (Post-doctoral Researcher),
+      working with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a> on
+      statistical methods for high-dimensional biomedical data.
     </p>
     <ul class="cta-list">
       <li>Bayesian / hierarchical modeling and methodology development</li>
-      <li>Single-cell &amp; bulk omics integration; clinical-trial analytics</li>
-      <li>Pharma, biotech, academic, or hybrid roles</li>
+      <li>Single-cell &amp; bulk omics integration</li>
+      <li>Causal &amp; longitudinal inference for trials and cohorts</li>
     </ul>
-    <a class="cta-button" href="mailto:quythien14@gmail.com?subject=Postdoc%20%2F%20industry%20opportunity">Reach out about a role</a>
+    <a class="cta-button" href="mailto:quythien14@gmail.com?subject=Hello">Get in touch</a>
   </div>
 
   <div class="cta-card cta-collab">
@@ -200,6 +204,7 @@ redirect_from:
 ## Recent news
 
 <ul class="news-list">
+  <li><span class="news-date">2026</span> Joining the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong> as Special Faculty (Post-doctoral Researcher) with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a> in 2027.</li>
   <li><span class="news-date">2026</span> Co-authored paper accepted at <em>PNAS</em>: <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em> (Barko, Shelton, et al.).</li>
   <li><span class="news-date">2026</span> First-author paper on tailored interventions for men living with HIV published in <em>Quality of Life Research</em>.</li>
   <li><span class="news-date">2025</span> Completed Senior Statistician Internship at Otsuka America Pharmaceutical (Bayesian meta-analysis for Phase 3 IgA nephropathy trial).</li>
