@@ -107,10 +107,16 @@ body {
   font-weight: 600;
   color: var(--ink);
   margin-top: 2.4em;
-  margin-bottom: 0.9em;
-  padding-bottom: 0.3em;
-  border-bottom: 1px solid var(--rule);
+  margin-bottom: 1em;
   letter-spacing: -0.005em;
+}
+.page__content h2::after {
+  content: "";
+  display: block;
+  width: 56px;
+  height: 2px;
+  background: var(--accent);
+  margin-top: 0.45em;
 }
 
 .page__content h3 {

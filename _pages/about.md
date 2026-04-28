@@ -89,7 +89,7 @@ redirect_from:
   <article class="pub-card">
     <div class="pub-figure">
       <div class="pub-figure-mark">
-        <span class="venue">Method</span>
+        <span class="venue venue-method">Method</span>
         BayesRC<br>circadian
         <span class="year">2026</span>
       </div>
@@ -121,7 +121,7 @@ redirect_from:
   <article class="pub-card">
     <div class="pub-figure">
       <div class="pub-figure-mark">
-        <span class="venue">QoL Res</span>
+        <span class="venue venue-clinical">QoL Res</span>
         HIV<br>quality of life
         <span class="year">2026</span>
       </div>

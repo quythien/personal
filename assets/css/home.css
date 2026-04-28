@@ -157,6 +157,10 @@
   margin-bottom: 0.45em;
   font-variant: small-caps;
 }
+/* Venue-by-category color signal: navy = methods/quantitative,
+   forest (default) = genomics/multi-omics, clay = clinical/applied. */
+.pub-figure-mark .venue.venue-method   { color: var(--navy); }
+.pub-figure-mark .venue.venue-clinical { color: var(--clay); }
 .pub-figure-mark .year {
   display: block;
   font-size: var(--text-micro);
