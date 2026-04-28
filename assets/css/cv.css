@@ -1,13 +1,61 @@
+/* =================================================================
+   CV page styles — long-form, wider measure than other archive pages.
+   ================================================================= */
+
 .archive {
   max-width: 100%;
 }
 
-.cv-download {
-  margin-bottom: 1em;
+@media (min-width: 80em) {
+  .archive {
+    width: 70%;
+  }
 }
 
-.cv-embed {
-  width: 100%;
-  height: 900px;
-  border: 1px solid #d9d1c2;
+/* Top + bottom download buttons */
+.cv-download {
+  margin: 0.4em 0 1.6em;
+}
+
+.cv-download-bottom {
+  margin: 2.4em 0 0.6em;
+  padding-top: 1.4em;
+  border-top: 1px solid var(--rule);
+}
+
+/* Section headings on the CV use the underline style coming out of
+   markdown's "===" heading (rendered as h1). Tighten them so they sit
+   well in the long-form list flow. */
+.page__content h1 {
+  font-family: var(--font-serif);
+  font-size: 1.55em;
+  font-weight: 700;
+  color: var(--ink);
+  margin-top: 2em;
+  margin-bottom: 0.7em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--rule);
+  letter-spacing: -0.005em;
+}
+
+.page__content h1:first-of-type {
+  margin-top: 1em;
+}
+
+/* Bulleted CV entries: keep the dot, tighten line-height, soften the
+   secondary "- " sub-bullets so they read as supporting detail. */
+.page__content ul li {
+  line-height: 1.55;
+  margin-bottom: 0.5em;
+}
+
+.page__content ul li ul li {
+  font-size: var(--text-small);
+  color: var(--ink-soft);
+  line-height: 1.45;
+  margin-bottom: 0.2em;
+}
+
+.page__content ul li strong {
+  color: var(--ink);
 }
