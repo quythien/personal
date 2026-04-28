@@ -166,16 +166,16 @@ redirect_from:
 ## Recent news
 
 <ul class="news-list">
-  <li><span class="news-date">May 2026</span><span class="news-body">Presenting <em>Comparative Bayesian multi-level framework for evaluating differential circadian synchrony across conditions</em> at <strong>STATGEN 2026</strong>.</span></li>
-  <li><span class="news-date">Apr 2026</span><span class="news-body">Accepted a Special Faculty (Postdoctoral Researcher) position in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, beginning January 2027, with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</span></li>
-  <li><span class="news-date">Apr 2026</span><span class="news-body">Co-authored <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em>, accepted in <em>PNAS</em>.</span></li>
-  <li><span class="news-date">Mar 2026</span><span class="news-body">Published first-author work on tailored interventions for men living with HIV in <em>Quality of Life Research</em>.</span></li>
-  <li><span class="news-date">Dec 2025</span><span class="news-body">Accepted a Biostatistics Internship at <strong>Merck</strong> in Biostatistics and Research Decision Sciences (BARDS), Oncology.</span></li>
-  <li><span class="news-date">Aug 2025</span><span class="news-body">Completed Senior Statistician Internship at <strong>Otsuka America Pharmaceutical</strong> (Bayesian meta-analysis for a Phase 3 IgA nephropathy trial).</span></li>
-  <li><span class="news-date">May 2025</span><span class="news-body">Received the <strong>Outstanding Teaching Assistant Award</strong> from the Department of Biostatistics.</span></li>
-  <li><span class="news-date">May 2025</span><span class="news-body">Received the <strong>Dean's Day Award</strong> from the School of Public Health.</span></li>
-  <li><span class="news-date">May 2025</span><span class="news-body">Received the <strong>STATGEN 2026 Travel Award</strong> to attend the conference.</span></li>
-  <li><span class="news-date">Apr 2025</span><span class="news-body">Passed the Ph.D. proposal exam and advanced to candidacy.</span></li>
+  <li><span class="news-date" data-year="2026">May 2026</span><span class="news-body">Presenting <em>Comparative Bayesian multi-level framework for evaluating differential circadian synchrony across conditions</em> at <strong>STATGEN 2026</strong>.</span></li>
+  <li><span class="news-date" data-year="2026">Apr 2026</span><span class="news-body">Accepted a Special Faculty (Postdoctoral Researcher) position in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, beginning January 2027, with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</span></li>
+  <li><span class="news-date" data-year="2026">Apr 2026</span><span class="news-body">Co-authored <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em>, accepted in <em>PNAS</em>.</span></li>
+  <li><span class="news-date" data-year="2026">Mar 2026</span><span class="news-body">Published first-author work on tailored interventions for men living with HIV in <em>Quality of Life Research</em>.</span></li>
+  <li><span class="news-date" data-year="2025">Dec 2025</span><span class="news-body">Accepted a Biostatistics Internship at <strong>Merck</strong> in Biostatistics and Research Decision Sciences (BARDS), Oncology.</span></li>
+  <li><span class="news-date" data-year="2025">Aug 2025</span><span class="news-body">Completed Senior Statistician Internship at <strong>Otsuka America Pharmaceutical</strong> (Bayesian meta-analysis for a Phase 3 IgA nephropathy trial).</span></li>
+  <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>Outstanding Teaching Assistant Award</strong> from the Department of Biostatistics.</span></li>
+  <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>Dean's Day Award</strong> from the School of Public Health.</span></li>
+  <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>STATGEN 2026 Travel Award</strong> to attend the conference.</span></li>
+  <li><span class="news-date" data-year="2025">Apr 2025</span><span class="news-body">Passed the Ph.D. proposal exam and advanced to candidacy.</span></li>
 </ul>
 
 <p class="closing-note">
