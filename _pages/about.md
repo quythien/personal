@@ -204,14 +204,16 @@ redirect_from:
 ## Recent news
 
 <ul class="news-list">
-  <li><span class="news-date">2026</span> Joining the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong> as Special Faculty (Post-doctoral Researcher) with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a> in 2027.</li>
-  <li><span class="news-date">2026</span> Co-authored paper accepted at <em>PNAS</em>: <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em> (Barko, Shelton, et al.).</li>
-  <li><span class="news-date">2026</span> First-author paper on tailored interventions for men living with HIV published in <em>Quality of Life Research</em>.</li>
-  <li><span class="news-date">2025</span> Completed Senior Statistician Internship at Otsuka America Pharmaceutical (Bayesian meta-analysis for Phase 3 IgA nephropathy trial).</li>
-  <li><span class="news-date">2025</span> Awarded the Biostatistics Dean's Day Doctoral Award.</li>
-  <li><span class="news-date">2025</span> Awarded the Outstanding Teaching Assistant Award, Department of Biostatistics.</li>
-  <li><span class="news-date">2025</span> Travel Funding Award — STATGEN Conference (Bayesian cross-species circadian rhythm congruence).</li>
-  <li><span class="news-date">2024</span> <em>Unraveling the mechanisms behind the short-term effects of dry needling: new insights from a mediation analysis with repeatedly measured mediators and outcomes</em> accepted at <em>Archives of Physical Medicine and Rehabilitation</em>.</li>
+  <li><span class="news-date">Apr 2026</span> Joining the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong> as Special Faculty (Post-doctoral Researcher) with <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a> in 2027.</li>
+  <li><span class="news-date">Apr 2026</span> Co-author: <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em> accepted at <em>PNAS</em> (Barko, Shelton, et al.).</li>
+  <li><span class="news-date">Mar 2026</span> First author: <em>Tailored interventions for men living with HIV</em> published in <em>Quality of Life Research</em>.</li>
+  <li><span class="news-date">Aug 2025</span> Completed Senior Statistician Internship at Otsuka America Pharmaceutical (Bayesian meta-analysis for Phase 3 IgA nephropathy trial).</li>
+  <li><span class="news-date">May 2025</span> Passed the Ph.D. Proposal Exam and advanced to Ph.D. candidacy.</li>
+  <li><span class="news-date">May 2025</span> Awarded the Outstanding Teaching Assistant Award, Department of Biostatistics.</li>
+  <li><span class="news-date">Apr 2025</span> Awarded the Biostatistics Dean's Day Doctoral Award.</li>
+  <li><span class="news-date">Mar 2025</span> Travel Funding Award — STATGEN Conference (Bayesian cross-species circadian rhythm congruence).</li>
+  <li><span class="news-date">Aug 2024</span> Passed the Comprehensive Written Qualifying Exam.</li>
+  <li><span class="news-date">Aug 2024</span> Co-author: <em>Unraveling the mechanisms behind the short-term effects of dry needling: new insights from a mediation analysis with repeatedly measured mediators and outcomes</em> accepted at <em>Archives of Physical Medicine and Rehabilitation</em>.</li>
 </ul>
 
 <p class="closing-note">
