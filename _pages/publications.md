@@ -25,7 +25,7 @@ A list of my publications and ongoing work. See my [Google Scholar profile](http
 
 ## Multi-omics &amp; translational psychiatry
 
-1. Barko KN, Shelton MA, Kropp DR, **Pham T**, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. (2026). *Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions.* **Proceedings of the National Academy of Sciences (PNAS)**. [Accepted]
+1. Barko KN, Shelton MA, Kropp DR, **Pham TQ**, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. (2026). *Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions.* **Proceedings of the National Academy of Sciences (PNAS)**. [Accepted]
 
 2. Almeida Rojo AL, Barnhardt TR, **Pham TQ**, Heim B, Cai L, Tseng GC, Huang YH. (2025). *Sleep deprivation engages the orexin/hypocretin system to regulate food reward seeking.* **International Journal of Neuropsychopharmacology**, 28(8):pyaf047. [doi:10.1093/ijnp/pyaf047](https://doi.org/10.1093/ijnp/pyaf047)
 

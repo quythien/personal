@@ -89,7 +89,7 @@ redirect_from:
       <div class="pub-tags"><span class="tag tag-method">Multi-omics · Neuroscience</span><span class="tag tag-year">Accepted, 2026</span></div>
       <h3>Genetic &amp; gonadal drivers of sex differences in stress susceptibility</h3>
       <p class="pub-tagline">Disentangling the contributions of sex chromosomes and gonadal hormones to stress-susceptibility transcriptional programs in corticostriatal brain regions.</p>
-      <p class="pub-meta">Barko KN, Shelton MA, Kropp DR, <strong>Pham T</strong>, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. <em>Proceedings of the National Academy of Sciences (PNAS)</em>, accepted.</p>
+      <p class="pub-meta">Barko KN, Shelton MA, Kropp DR, <strong>Pham TQ</strong>, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. <em>Proceedings of the National Academy of Sciences (PNAS)</em>, accepted.</p>
     </div>
   </article>
 
