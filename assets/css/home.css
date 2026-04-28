@@ -1,8 +1,8 @@
 /* =================================================================
    Homepage custom styles — Thien (Theo) Pham
-   Editorial / academic-print aesthetic, adapted from Jiebiao Wang's
-   AcademicPages homepage. Scoped to the homepage sections; nav and
-   sidebar continue to inherit the AcademicPages defaults.
+   Editorial / academic-print aesthetic, ported from Jiebiao Wang's
+   AcademicPages homepage (https://randel.github.io). Scoped to the
+   homepage; nav and sidebar inherit AcademicPages defaults.
    ================================================================= */
 
 :root {
@@ -57,7 +57,7 @@
   letter-spacing: 0.03em;
 }
 
-/* ---------- Section headings ---------- */
+/* ---------- Section labels ---------- */
 .page__content h2 {
   font-family: Georgia, "Iowan Old Style", serif;
   font-size: 1.55em;
@@ -127,9 +127,11 @@
   margin-bottom: 1em;
 }
 .pub-card {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  gap: 1.4em;
   background: #fff;
   border: 1px solid var(--rule);
-  border-left: 3px solid var(--accent-soft);
   border-radius: 2px;
   padding: 1.1em 1.3em;
   transition: box-shadow 0.2s ease, transform 0.2s ease;
@@ -137,6 +139,44 @@
 .pub-card:hover {
   box-shadow: 0 8px 24px rgba(30, 25, 20, 0.08);
   transform: translateY(-1px);
+}
+.pub-figure {
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1em;
+  min-height: 130px;
+  text-align: center;
+}
+.pub-figure-mark {
+  font-family: Georgia, "Iowan Old Style", serif;
+  font-size: 1.45em;
+  font-weight: 700;
+  color: var(--accent);
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+}
+.pub-figure-mark .venue {
+  display: block;
+  font-size: 0.7em;
+  color: var(--accent-soft);
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin-bottom: 0.35em;
+  font-variant: small-caps;
+}
+.pub-figure-mark .year {
+  display: block;
+  font-size: 0.55em;
+  color: var(--ink-soft);
+  font-weight: normal;
+  letter-spacing: 0.1em;
+  margin-top: 0.4em;
+  font-variant: small-caps;
 }
 .pub-body h3 {
   font-family: Georgia, serif;
@@ -162,14 +202,19 @@
   line-height: 1.45;
 }
 .pub-meta em { font-style: italic; }
-.pub-meta a {
+.pub-links {
+  font-family: Georgia, serif;
+  font-size: 0.88em;
+  margin: 0;
+}
+.pub-links a, .pub-meta a {
   color: var(--accent);
   text-decoration: none;
   border-bottom: 1px solid rgba(122, 46, 31, 0.3);
   padding-bottom: 1px;
   transition: border-color 0.15s ease;
 }
-.pub-meta a:hover { border-bottom-color: var(--accent); }
+.pub-links a:hover, .pub-meta a:hover { border-bottom-color: var(--accent); }
 
 .pub-tags {
   display: flex;
@@ -196,6 +241,11 @@
   color: var(--ink-soft);
   border: 1px solid var(--rule);
 }
+.highlight-note {
+  color: var(--accent);
+  font-style: italic;
+  font-weight: 600;
+}
 
 .see-all-pubs {
   text-align: right;
@@ -209,6 +259,99 @@
   border-bottom: 1px solid rgba(122, 46, 31, 0.3);
 }
 .see-all-pubs a:hover { border-bottom-color: var(--accent); }
+
+/* ---------- CTAs ---------- */
+.cta-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.3em;
+  margin: 0.5em 0 1em;
+}
+.cta-card {
+  padding: 1.4em 1.5em 1.6em;
+  border-radius: 2px;
+  position: relative;
+  overflow: hidden;
+}
+.cta-students {
+  background: linear-gradient(135deg, #f4efe2 0%, #ece5d4 100%);
+  border: 1px solid #d8ceb4;
+}
+.cta-collab {
+  background: linear-gradient(135deg, #eaeef0 0%, #d8dfe3 100%);
+  border: 1px solid #bdc7ce;
+}
+.cta-eyebrow {
+  font-family: Georgia, serif;
+  font-size: 0.72em;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin-bottom: 0.6em;
+}
+.cta-card h3 {
+  font-family: Georgia, serif;
+  font-size: 1.3em;
+  font-weight: 700;
+  color: var(--ink);
+  margin: 0 0 0.55em;
+}
+.cta-card p {
+  font-family: Georgia, serif;
+  font-size: 0.95em;
+  line-height: 1.58;
+  color: var(--ink);
+  margin: 0 0 0.8em;
+}
+.cta-card strong { color: var(--ink); }
+.cta-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 1.1em;
+}
+.cta-list li {
+  font-family: Georgia, serif;
+  font-size: 0.9em;
+  color: var(--ink-soft);
+  padding: 0.3em 0 0.3em 1em;
+  position: relative;
+  line-height: 1.45;
+}
+.cta-list li::before {
+  content: "§";
+  position: absolute;
+  left: 0;
+  color: var(--gold);
+  font-weight: 700;
+}
+.cta-list a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid rgba(122, 46, 31, 0.3);
+}
+.cta-button {
+  display: inline-block;
+  font-family: Georgia, serif;
+  font-size: 0.92em;
+  padding: 0.7em 1.4em;
+  background: var(--accent);
+  color: #fff !important;
+  text-decoration: none !important;
+  border-radius: 1px;
+  border: none;
+  letter-spacing: 0.02em;
+  transition: background 0.15s ease, transform 0.15s ease;
+}
+.cta-button:hover {
+  background: #5a2014;
+  transform: translateY(-1px);
+}
+.cta-button-alt {
+  background: var(--navy);
+}
+.cta-button-alt:hover {
+  background: #1c3340;
+}
 
 /* ---------- News ---------- */
 .news-list {
@@ -275,6 +418,13 @@
 
 /* ---------- Responsive ---------- */
 @media (max-width: 700px) {
+  .pub-card {
+    grid-template-columns: 1fr;
+    gap: 0.9em;
+  }
+  .pub-figure {
+    min-height: 110px;
+  }
   .news-list li {
     grid-template-columns: 1fr;
     gap: 0.1em;

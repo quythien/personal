@@ -31,8 +31,7 @@ redirect_from:
   </p>
 
   <p class="funding-note">
-    Currently expecting to graduate <strong>December 2026</strong> and open to industry and
-    postdoctoral opportunities in biostatistics, computational biology, and clinical data science.
+    Currently expecting to graduate <strong>December 2026</strong>. Open to <strong>postdoctoral and industry positions</strong> in biostatistics, computational biology, and clinical data science.
   </p>
 </div>
 
@@ -44,8 +43,8 @@ redirect_from:
     <h3>Bayesian methods for circadian biology</h3>
     <p>
       Hierarchical Bayesian models and meta-analytic frameworks to detect, align, and compare
-      circadian phase programs across species and tissues — connecting molecular timing to
-      health and disease.
+      <em>circadian phase programs</em> across species and tissues — connecting molecular timing
+      to health and disease.
     </p>
   </div>
 
@@ -53,9 +52,9 @@ redirect_from:
     <div class="theme-kicker">Theme 02</div>
     <h3>Multi-omics integration</h3>
     <p>
-      Probabilistic and deep-learning approaches (sparse multi-CCA, VAEs, graph neural networks)
-      that integrate RNA-seq, single-cell, DNA methylation, and proteomics to recover
-      cross-omics modules and cell-type-specific signal.
+      Probabilistic and deep-learning approaches — <em>sparse multi-CCA</em>, <em>VAEs</em>,
+      <em>graph neural networks</em> — that integrate RNA-seq, single-cell, DNA methylation,
+      and proteomics to recover cross-omics modules and cell-type-specific signal.
     </p>
   </div>
 
@@ -63,9 +62,9 @@ redirect_from:
     <div class="theme-kicker">Theme 03</div>
     <h3>Causal &amp; longitudinal inference</h3>
     <p>
-      Mixed-effects models, GEE, and longitudinal mediation for clinical-trial and
-      cohort data — including HIV care, women's health in low-resource settings,
-      and rehabilitation outcomes.
+      Mixed-effects models, <em>GEE</em>, and <em>longitudinal mediation</em> for
+      clinical-trial and cohort data — including HIV care, women's health in
+      low-resource settings, and rehabilitation outcomes.
     </p>
   </div>
 </div>
@@ -75,6 +74,13 @@ redirect_from:
 <div class="featured-pubs">
 
   <article class="pub-card">
+    <div class="pub-figure">
+      <div class="pub-figure-mark">
+        <span class="venue">PNAS</span>
+        Sex differences<br>in stress
+        <span class="year">2026</span>
+      </div>
+    </div>
     <div class="pub-body">
       <div class="pub-tags"><span class="tag tag-method">Multi-omics · Neuroscience</span><span class="tag tag-year">Accepted, 2026</span></div>
       <h3>Genetic &amp; gonadal drivers of sex differences in stress susceptibility</h3>
@@ -84,42 +90,66 @@ redirect_from:
   </article>
 
   <article class="pub-card">
+    <div class="pub-figure">
+      <div class="pub-figure-mark">
+        <span class="venue">In prep</span>
+        Cross-species<br>circadian
+        <span class="year">2026</span>
+      </div>
+    </div>
     <div class="pub-body">
       <div class="pub-tags"><span class="tag tag-method">Bayesian · Circadian</span><span class="tag tag-year">In prep, 2026</span></div>
       <h3>Cross-species circadian congruence</h3>
-      <p class="pub-tagline">A Bayesian framework for inferring shared and divergent circadian phase programs across species via meta-analysis.</p>
+      <p class="pub-tagline">A <em>Bayesian framework</em> for inferring shared and divergent circadian phase programs across species via meta-analysis.</p>
       <p class="pub-meta"><strong>Pham TQ</strong>, Tseng GC, et al. <em>In preparation.</em></p>
     </div>
   </article>
 
   <article class="pub-card">
+    <div class="pub-figure">
+      <div class="pub-figure-mark">
+        <span class="venue">QoL Res</span>
+        HIV<br>quality of life
+        <span class="year">2026</span>
+      </div>
+    </div>
     <div class="pub-body">
       <div class="pub-tags"><span class="tag tag-method">Clinical trial · QoL</span><span class="tag tag-year">2026</span></div>
       <h3>Tailored interventions for men living with HIV</h3>
-      <p class="pub-tagline">First-author analysis of a multilevel intervention's effect on quality-of-life outcomes among men living with HIV in India.</p>
+      <p class="pub-tagline">First-author analysis of a <em>multilevel intervention</em>'s effect on quality-of-life outcomes among men living with HIV in India.</p>
       <p class="pub-meta"><strong>Pham TQ</strong>, Wu Q, Pan C, Ha L, Bui TC, Sujan MSH, Schensul SL, et al. <em>Quality of Life Research</em>, 35:27.</p>
     </div>
   </article>
 
   <article class="pub-card">
+    <div class="pub-figure">
+      <div class="pub-figure-mark">
+        <span class="venue">APMR</span>
+        Dry needling<br>mediation
+        <span class="year">2024</span>
+      </div>
+    </div>
     <div class="pub-body">
       <div class="pub-tags"><span class="tag tag-method">Causal mediation</span><span class="tag tag-year">2024</span></div>
       <h3>Mechanisms of dry-needling effects</h3>
-      <p class="pub-tagline">Repeated-measures mediation analysis identifying pain reduction as a key short-term mediator of disability outcomes.</p>
-      <p class="pub-meta">Murillo C, Cerezo-Téllez E, Torres-Lacomba M, <strong>Pham TQ</strong>, Lluch E, Falla D, Vo TT. <em>Arch Phys Med Rehabil</em>, 105(12):2269–2276.
-        <a href="https://doi.org/10.1016/j.apmr.2024.07.016">doi</a>
-      </p>
+      <p class="pub-tagline">Repeated-measures <em>mediation analysis</em> identifying pain reduction as a key short-term mediator of disability outcomes.</p>
+      <p class="pub-meta">Murillo C, Cerezo-Téllez E, Torres-Lacomba M, <strong>Pham TQ</strong>, Lluch E, Falla D, Vo TT. <em>Arch Phys Med Rehabil</em>, 105(12):2269–2276. <a href="https://doi.org/10.1016/j.apmr.2024.07.016">doi</a></p>
     </div>
   </article>
 
   <article class="pub-card">
+    <div class="pub-figure">
+      <div class="pub-figure-mark">
+        <span class="venue">IJN</span>
+        Sleep &amp; <br>orexin
+        <span class="year">2025</span>
+      </div>
+    </div>
     <div class="pub-body">
       <div class="pub-tags"><span class="tag tag-method">Multi-omics</span><span class="tag tag-year">2025</span></div>
       <h3>Sleep deprivation &amp; the orexin/hypocretin system</h3>
-      <p class="pub-tagline">Multi-omics analysis linking sleep deprivation to orexin/hypocretin regulation of food-reward seeking.</p>
-      <p class="pub-meta">Almeida Rojo AL, Barnhardt TR, <strong>Pham TQ</strong>, Heim B, Cai L, Tseng GC, et al. <em>Int J Neuropsychopharmacol</em>, 28(8):pyaf047.
-        <a href="https://doi.org/10.1093/ijnp/pyaf047">doi</a>
-      </p>
+      <p class="pub-tagline">Multi-omics analysis linking sleep deprivation to <em>orexin/hypocretin regulation</em> of food-reward seeking.</p>
+      <p class="pub-meta">Almeida Rojo AL, Barnhardt TR, <strong>Pham TQ</strong>, Heim B, Cai L, Tseng GC, et al. <em>Int J Neuropsychopharmacol</em>, 28(8):pyaf047. <a href="https://doi.org/10.1093/ijnp/pyaf047">doi</a></p>
     </div>
   </article>
 
@@ -128,6 +158,44 @@ redirect_from:
 <p class="see-all-pubs">
   <a href="{{ '/publications/' | relative_url }}">See the full publication list →</a>
 </p>
+
+## Looking ahead · Collaborate
+
+<div class="cta-grid">
+
+  <div class="cta-card cta-students">
+    <div class="cta-eyebrow">Graduating December 2026</div>
+    <h3>Open to opportunities</h3>
+    <p>
+      I'm actively exploring <strong>postdoctoral fellowships and industry positions</strong>
+      in biostatistics, computational biology, and clinical data science.
+      If your team works on Bayesian methodology, multi-omics, or trial analytics,
+      I'd love to talk.
+    </p>
+    <ul class="cta-list">
+      <li>Bayesian / hierarchical modeling and methodology development</li>
+      <li>Single-cell &amp; bulk omics integration; clinical-trial analytics</li>
+      <li>Pharma, biotech, academic, or hybrid roles</li>
+    </ul>
+    <a class="cta-button" href="mailto:quythien14@gmail.com?subject=Postdoc%20%2F%20industry%20opportunity">Reach out about a role</a>
+  </div>
+
+  <div class="cta-card cta-collab">
+    <div class="cta-eyebrow">Biomedical collaborators</div>
+    <h3>Research collaboration</h3>
+    <p>
+      I collaborate broadly across <em>circadian biology</em>, <em>psychiatry</em>,
+      <em>HIV care</em>, and <em>rehabilitation</em>. If you have a multi-omics or
+      longitudinal-trial dataset and a methodological question, I'm happy to discuss.
+    </p>
+    <ul class="cta-list">
+      <li>Method development driven by real biological problems</li>
+      <li>Analysis on RNA-seq, single-cell, methylation, proteomics, clinical</li>
+    </ul>
+    <a class="cta-button cta-button-alt" href="mailto:quythien14@gmail.com?subject=Research%20collaboration">Start a conversation</a>
+  </div>
+
+</div>
 
 ## Recent news
 
@@ -139,11 +207,10 @@ redirect_from:
   <li><span class="news-date">2025</span> Awarded the Outstanding Teaching Assistant Award, Department of Biostatistics.</li>
   <li><span class="news-date">2025</span> Travel Funding Award — STATGEN Conference (Bayesian cross-species circadian rhythm congruence).</li>
   <li><span class="news-date">2024</span> Co-authored mediation-analysis paper published in <em>Archives of Physical Medicine and Rehabilitation</em>.</li>
-  <li><span class="news-date">2023</span> Joined the Department of Infectious Disease as a graduate research assistant on HIV and women's health studies.</li>
 </ul>
 
 <p class="closing-note">
   Outside research, I sing with the <a href="https://www.pittsburghmensgleeclub.org/">Pittsburgh Men's Glee Club</a>
   and spend a lot of time with my cat.
-  Feel free to reach out: <a href="mailto:quythien14@gmail.com">quythien14@gmail.com</a>.
+  Reach me at <a href="mailto:quythien14@gmail.com">quythien14@gmail.com</a>.
 </p>
