@@ -9,4 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ '/files/cv.pdf' | absolute_url }}" width="100%" height="900" type='application/pdf'>
+<style>
+  .archive { max-width: 100%; }
+  .cv-embed { width: 100%; height: 900px; border: 1px solid #d9d1c2; }
+</style>
+
+<p style="margin-bottom: 1em;">
+  <a href="{{ '/files/cv.pdf' | absolute_url }}" class="btn btn--primary">Download CV (PDF)</a>
+</p>
+
+<embed src="{{ '/files/cv.pdf' | absolute_url }}" class="cv-embed" type="application/pdf">
