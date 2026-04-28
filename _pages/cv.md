@@ -13,4 +13,6 @@ redirect_from:
   <a href="{{ '/files/cv.pdf' | absolute_url }}" class="btn btn--primary">Download CV (PDF)</a>
 </p>
 
-<embed src="{{ '/files/cv.pdf' | absolute_url }}" width="100%" height="900" type='application/pdf'>
+<iframe src="{{ '/files/cv.pdf' | absolute_url }}#view=FitH" width="100%" height="900" style="border: 1px solid var(--rule, #d9d1c2);">
+  <p>Your browser doesn't support inline PDFs. <a href="{{ '/files/cv.pdf' | absolute_url }}">Download the PDF</a>.</p>
+</iframe>
