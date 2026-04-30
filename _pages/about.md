@@ -47,7 +47,7 @@ redirect_from:
   </p>
 </div>
 
-## Research program
+## Research themes
 
 <p class="research-summary">
   My current research has three connected threads: Bayesian models for circadian rhythms,
@@ -55,8 +55,6 @@ redirect_from:
   biomedical research. Across these areas, I aim to build methods that are statistically
   principled, scientifically interpretable, and useful in real collaborative settings.
 </p>
-
-## Research themes
 
 <div class="themes-grid">
   <div class="theme-card">
