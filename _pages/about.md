@@ -178,7 +178,7 @@ redirect_from:
   <li><span class="news-date" data-year="2025">Aug 2025</span><span class="news-body">Completed Senior Statistician Internship at <strong>Otsuka America Pharmaceutical</strong> (Bayesian meta-analysis for a Phase 3 IgA nephropathy trial).</span></li>
   <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>Outstanding Teaching Assistant Award</strong> from the Department of Biostatistics.</span></li>
   <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>Dean's Day Award</strong> from the School of Public Health.</span></li>
-  <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>STATGEN 2026 Travel Award</strong> to attend the conference.</span></li>
+  <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>STATGEN 2025 Travel Award</strong> to attend the conference.</span></li>
   <li><span class="news-date" data-year="2025">Apr 2025</span><span class="news-body">Passed the Ph.D. proposal exam and advanced to candidacy.</span></li>
 </ul>
 
