@@ -10,6 +10,7 @@ custom_css:
 <nav class="news-year-nav" aria-label="Jump to year">
   <a href="#news-2026">2026</a>
   <a href="#news-2025">2025</a>
+  <a href="#news-2024">2024</a>
 </nav>
 
 <p class="news-year-heading" id="news-2026">2026</p>
@@ -30,4 +31,10 @@ custom_css:
   <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>Dean's Day Award</strong> from the School of Public Health.</span></li>
   <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>STATGEN 2025 Travel Award</strong> to attend the conference.</span></li>
   <li><span class="news-date" data-year="2025">Apr 2025</span><span class="news-body">Passed the Ph.D. proposal exam and advanced to candidacy.</span></li>
+</ul>
+
+<p class="news-year-heading" id="news-2024">2024</p>
+
+<ul class="news-list">
+  <li><span class="news-date" data-year="2024">Aug 2024</span><span class="news-body">Passed the Ph.D. Qualifying Exam (Theory &amp; Applied).</span></li>
 </ul>

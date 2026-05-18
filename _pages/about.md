@@ -180,6 +180,7 @@ redirect_from:
   <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>Dean's Day Award</strong> from the School of Public Health.</span></li>
   <li class="news-award"><span class="news-date" data-year="2025">May 2025</span><span class="news-body">Received the <strong>STATGEN 2025 Travel Award</strong> to attend the conference.</span></li>
   <li><span class="news-date" data-year="2025">Apr 2025</span><span class="news-body">Passed the Ph.D. proposal exam and advanced to candidacy.</span></li>
+  <li><span class="news-date" data-year="2024">Aug 2024</span><span class="news-body">Passed the Ph.D. Qualifying Exam (Theory &amp; Applied).</span></li>
 </ul>
 
 <p class="closing-note">
