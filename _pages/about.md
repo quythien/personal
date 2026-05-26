@@ -115,10 +115,10 @@ redirect_from:
       </div>
     </div>
     <div class="pub-body">
-      <div class="pub-tags"><span class="tag tag-method">Multi-omics · Neuroscience</span><span class="tag tag-year">Accepted, 2026</span></div>
-      <h3>Genetic &amp; gonadal drivers of sex differences in stress susceptibility</h3>
+      <div class="pub-tags"><span class="tag tag-method">Multi-omics · Neuroscience</span><span class="tag tag-year">Published, 2026</span></div>
+      <h3>Impact of Sex Chromosomes and Gonad Type in Stress Susceptibility in Corticostriatal Brain Regions</h3>
       <p class="pub-tagline">Multi-omics analysis of how sex chromosomes and gonadal hormones shape stress-related transcriptional programs in corticostriatal brain regions.</p>
-      <p class="pub-meta">Barko KN, Shelton MA, Kropp DR, <strong>Pham TQ</strong>, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. <em>Proceedings of the National Academy of Sciences (PNAS)</em>, accepted.</p>
+      <p class="pub-meta">Barko KN, Shelton MA, Kropp DR, <strong>Pham TQ</strong>, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. <a href="https://www.pnas.org/doi/10.1073/pnas.2531920123"><em>Proceedings of the National Academy of Sciences (PNAS)</em></a>, 2026. doi:10.1073/pnas.2531920123</p>
     </div>
   </article>
 
@@ -172,7 +172,7 @@ redirect_from:
 <ul class="news-list">
   <li><span class="news-date" data-year="2026">May 2026</span><span class="news-body">Presenting <em>Comparative Bayesian multi-level framework for evaluating differential circadian synchrony across conditions</em> at <strong>STATGEN 2026</strong>.</span></li>
   <li><span class="news-date" data-year="2026">Apr 2026</span><span class="news-body">Accepted a Special Faculty (Postdoctoral Researcher) position in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, beginning December 2026, under the guidance of <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</span></li>
-  <li><span class="news-date" data-year="2026">Apr 2026</span><span class="news-body">Co-authored <em>Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions</em>, accepted in <em>PNAS</em>.</span></li>
+  <li><span class="news-date" data-year="2026">May 2026</span><span class="news-body">Co-authored <a href="https://www.pnas.org/doi/10.1073/pnas.2531920123"><em>Impact of Sex Chromosomes and Gonad Type in Stress Susceptibility in Corticostriatal Brain Regions</em></a>, published in <em>PNAS</em>.</span></li>
   <li><span class="news-date" data-year="2026">Mar 2026</span><span class="news-body">Published first-author work on tailored interventions for men living with HIV in <em>Quality of Life Research</em>.</span></li>
   <li><span class="news-date" data-year="2025">Dec 2025</span><span class="news-body">Accepted a Biostatistics Internship at <strong>Merck</strong> in Biostatistics and Research Decision Sciences (BARDS), Oncology.</span></li>
   <li><span class="news-date" data-year="2025">Aug 2025</span><span class="news-body">Completed Senior Statistician Internship at <strong>Otsuka America Pharmaceutical</strong> (Bayesian meta-analysis for a Phase 3 IgA nephropathy trial).</span></li>

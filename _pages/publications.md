@@ -18,7 +18,7 @@ custom_css:
 
 1. **Pham TQ**, Tseng GC, et al. (2026). *BayesRC: a comparative Bayesian multilevel framework for evaluating circadian synchrony across conditions.* In preparation.
 
-2. Barko KN, Shelton MA, Kropp DR, **Pham TQ**, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. (2026). *Genetic and gonadal drivers of sex differences in stress susceptibility in corticostriatal brain regions.* **Proceedings of the National Academy of Sciences (PNAS)**. Accepted.
+2. Barko KN, Shelton MA, Kropp DR, **Pham TQ**, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. (2026). *Impact of Sex Chromosomes and Gonad Type in Stress Susceptibility in Corticostriatal Brain Regions.* **Proceedings of the National Academy of Sciences (PNAS)**. [doi:10.1073/pnas.2531920123](https://www.pnas.org/doi/10.1073/pnas.2531920123)
 
 3. **Pham TQ**, Wu Q, Pan C, Ha L, Bui TC, Sujan MSH, Schensul SL, et al. (2026). *Enhancing quality of life through tailored interventions for men living with HIV.* **Quality of Life Research**, 35:27.
 
