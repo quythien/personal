@@ -17,9 +17,9 @@ custom_css:
 
 <ul class="news-list">
   <li><span class="news-date" data-year="2026">May 2026</span><span class="news-body">Presenting <em>Comparative Bayesian multi-level framework for evaluating differential circadian synchrony across conditions</em> at <strong>STATGEN 2026</strong>.</span></li>
-  <li><span class="news-date" data-year="2026">Apr 2026</span><span class="news-body">Accepted a Special Faculty (Postdoctoral Researcher) position in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, beginning December 2026, under the guidance of <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</span></li>
   <li><span class="news-date" data-year="2026">May 2026</span><span class="news-body">Co-authored <a href="https://www.pnas.org/doi/10.1073/pnas.2531920123"><em>Impact of Sex Chromosomes and Gonad Type in Stress Susceptibility in Corticostriatal Brain Regions</em></a>, published in <em>PNAS</em>.</span></li>
-  <li><span class="news-date" data-year="2026">Mar 2026</span><span class="news-body">Published first-author work on tailored interventions for men living with HIV in <em>Quality of Life Research</em>.</span></li>
+  <li><span class="news-date" data-year="2026">Apr 2026</span><span class="news-body">Accepted a Special Faculty (Postdoctoral Researcher) position in the Department of Statistics and Data Science at <strong>Carnegie Mellon University</strong>, beginning December 2026, under the guidance of <a href="https://kathrynmroeder.github.io/">Dr. Kathryn Roeder</a>.</span></li>
+  <li><span class="news-date" data-year="2026">Mar 2026</span><span class="news-body">Published first-author <a href="https://doi.org/10.1007/s11136-025-04146-z"><em>Enhancing quality of life through tailored interventions for men living with HIV</em></a> in <em>Quality of Life Research</em>.</span></li>
 </ul>
 
 <p class="news-year-heading" id="news-2025">2025</p>

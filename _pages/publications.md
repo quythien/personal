@@ -20,7 +20,7 @@ custom_css:
 
 2. Barko KN, Shelton MA, Kropp DR, **Pham TQ**, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. (2026). *Impact of Sex Chromosomes and Gonad Type in Stress Susceptibility in Corticostriatal Brain Regions.* **Proceedings of the National Academy of Sciences (PNAS)**. [doi:10.1073/pnas.2531920123](https://www.pnas.org/doi/10.1073/pnas.2531920123)
 
-3. **Pham TQ**, Wu Q, Pan C, Ha L, Bui TC, Sujan MSH, Schensul SL, et al. (2026). *Enhancing quality of life through tailored interventions for men living with HIV.* **Quality of Life Research**, 35:27.
+3. **Pham TQ**, Wu Q, Pan C, Ha L, Bui TC, Sujan MSH, Schensul SL, Shrestha R, Le NT, Ha T. (2026). *Enhancing quality of life through tailored interventions for men living with HIV.* **Quality of Life Research**, 35(2):27. [doi:10.1007/s11136-025-04146-z](https://doi.org/10.1007/s11136-025-04146-z)
 
 4. Almeida Rojo AL, Barnhardt TR, **Pham TQ**, Heim B, Cai L, Tseng GC, Huang YH. (2025). *Sleep deprivation engages the orexin/hypocretin system to regulate food reward seeking.* **International Journal of Neuropsychopharmacology**, 28(8):pyaf047. [doi:10.1093/ijnp/pyaf047](https://doi.org/10.1093/ijnp/pyaf047)
 
