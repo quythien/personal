@@ -62,7 +62,7 @@ redirect_from:
     <h3>Bayesian methods for circadian biology</h3>
     <p>
       I develop hierarchical Bayesian and meta-analytic models for detecting, aligning, and
-      comparing <em>circadian phase programs</em> across tissues, studies, and species.
+      comparing <em>circadian programs</em> across tissues, studies, and species.
     </p>
   </div>
 
@@ -80,9 +80,7 @@ redirect_from:
     <div class="theme-kicker">Theme 03</div>
     <h3>Causal &amp; longitudinal inference</h3>
     <p>
-      In collaborative work, I use mixed-effects models, <em>GEE</em>, and
-      <em>longitudinal mediation</em> to study clinical trials and cohort data in HIV,
-      women's health, and rehabilitation research.
+      In collaborative work, I apply mixed-effects models, causal mediation, and related methods to longitudinal and correlated data from clinical trials and cohort studies spanning HIV, women's health, and rehabilitation research.
     </p>
   </div>
 </div>

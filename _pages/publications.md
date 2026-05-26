@@ -41,5 +41,3 @@ custom_css:
 - **Pham TQ**, Tseng GC, et al. (2026). *Simulation-Based Power Calculation and Study Design for Circadian Rhythmic Analysis.* In preparation.
 
 - Barko K, **Pham TQ**, Seney M, et al. *Sex differences detected in the proteome of MDD subjects.* Under review.
-
-- Barko K, **Pham TQ**, Seney M, et al. *Microglial transcriptional responses to SCVS: brain region- and sex-specific profiles.* In preparation.
