@@ -118,7 +118,7 @@ redirect_from:
       <div class="pub-tags"><span class="tag tag-method">Multi-omics · Neuroscience</span><span class="tag tag-year">Published, 2026</span></div>
       <h3>Impact of Sex Chromosomes and Gonad Type in Stress Susceptibility in Corticostriatal Brain Regions</h3>
       <p class="pub-tagline">Multi-omics analysis of how sex chromosomes and gonadal hormones shape stress-related transcriptional programs in corticostriatal brain regions.</p>
-      <p class="pub-meta">Barko KN, Shelton MA, Kropp DR, <strong>Pham TQ</strong>, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. <a href="https://www.pnas.org/doi/10.1073/pnas.2531920123"><em>Proceedings of the National Academy of Sciences (PNAS)</em></a>, 2026. doi:10.1073/pnas.2531920123</p>
+      <p class="pub-meta">Barko KN*, Shelton MA, Kropp DR, <strong>Pham TQ</strong>, Rainville JR, Xue X, Tseng GC, Hodes GE, Seney ML. <a href="https://www.pnas.org/doi/10.1073/pnas.2531920123"><em>Proceedings of the National Academy of Sciences (PNAS)</em></a>, 2026. doi:10.1073/pnas.2531920123</p>
     </div>
   </article>
 
