@@ -87,6 +87,8 @@ redirect_from:
 
 ## Selected publications
 
+<p class="pub-footnote"><em>An asterisk (*) denotes first or co-first author.</em></p>
+
 <div class="featured-pubs">
   <article class="pub-card">
     <div class="pub-figure">
@@ -100,7 +102,7 @@ redirect_from:
       <div class="pub-tags"><span class="tag tag-method">Bayesian · Circadian</span><span class="tag tag-year">In preparation</span></div>
       <h3>BayesRC: a comparative Bayesian multilevel framework for circadian synchrony</h3>
       <p class="pub-tagline">A methodological project on comparing circadian synchrony across conditions through a multilevel Bayesian meta-analytic framework.</p>
-      <p class="pub-meta"><strong>Pham TQ</strong>, Tseng GC, et al. <em>In preparation.</em></p>
+      <p class="pub-meta"><strong>Pham TQ*</strong>, Tseng GC, et al. <em>In preparation.</em></p>
     </div>
   </article>
 
@@ -132,7 +134,7 @@ redirect_from:
       <div class="pub-tags"><span class="tag tag-method">Clinical trial · Longitudinal</span><span class="tag tag-year">2026</span></div>
       <h3>Tailored interventions for men living with HIV</h3>
       <p class="pub-tagline">First-author analysis of a multilevel intervention and its association with quality-of-life outcomes among men living with HIV in India.</p>
-      <p class="pub-meta"><strong>Pham TQ</strong>, Wu Q, Pan C, Ha L, Bui TC, Sujan MSH, Schensul SL, Shrestha R, Le NT, Ha T. <a href="https://doi.org/10.1007/s11136-025-04146-z"><em>Quality of Life Research</em></a>, 35(2):27.</p>
+      <p class="pub-meta"><strong>Pham TQ*</strong>, Wu Q, Pan C, Ha L, Bui TC, Sujan MSH, Schensul SL, Shrestha R, Le NT, Ha T. <a href="https://doi.org/10.1007/s11136-025-04146-z"><em>Quality of Life Research</em></a>, 35(2):27.</p>
     </div>
   </article>
 </div>
