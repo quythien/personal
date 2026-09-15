@@ -41,7 +41,7 @@ redirect_from:
 <div class="cv-header">
   <h1>Curriculum Vitae</h1>
   <div class="cv-download-links">
-    <a href="{{ base_path }}/files/cv.pdf" class="btn btn--primary">Download CV as PDF</a>
+    <a href="{{ base_path }}/files/cv.pdf?v={{ site.time | date: '%s' }}" class="btn btn--primary">Download CV as PDF</a>
   </div>
 </div>
 
